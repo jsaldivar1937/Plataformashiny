@@ -2,11 +2,40 @@ library(shiny)
 #install.packages('rsconnect')
 #install.packages("shiny.semantic")
 library(shiny.semantic)
+library(tidytext)
+library(tidyverse)
+library(stringr)
+library(dplyr)
+library(DT)
+
+
+datos_combinados <- merge(data, codigo_actividad, by = "CODIGO")
+datos_procesados <- datos_combinados %>%
+  mutate(grupo = word(DESC_CODIGO, 1)) %>%
+  group_by(grupo) %>%
+  summarise(total = n())
+
+
+
+
+
+
+
+
 rsconnect::setAccountInfo(name='qqqt7y-javier-saldivar', token='1E1571E02BEC3D28BF1994F9984B02E3', secret='/TMEEFeuIkZpeSCsiORHYYBUsL5iYJ9R/0tXYUU2')
 ui <- fluidPage(
   tags$head(
     tags$style(HTML("
       /* Estilos personalizados */
+      .circle-badge {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
       body {
         font-family: 'Montserrat', sans-serif;
         background-color: #f8f8f8;
@@ -140,15 +169,33 @@ como por ejemplo requieren de saber:"),
             
             
             
-    tags$div(id = "values", class = "container-fluid",
-             tags$div(class = "row",
-                      tags$div(class = "col-sm-4",
-                               tags$h2("Aqui van las graficas de la base de datos"),
-                               tags$h4("tamaño de su titulo"),
-                               tags$p("algo de texto.")
-                      )
-             )
+    tags$div(
+      id = "values",
+      class = "container-fluid",
+      tags$div(
+        class = "row",
+        tags$div(
+          class = "col-sm-4",
+          tags$h2("Empresas en Mexico"),
+          tags$h4("Se muestra el numero total de empresas en mexico segun el censo 2019 por el INEGI"),
+          tags$div(
+            class = "circle-badge",
+            style = "display: flex; justify-content: center; align-items: center; background-color: white; border: 2px solid green; color: #000; width: 150px; height: 150px; border-radius: 50%;",
+            tags$p(
+              style = "font-size: 36px; font-weight: bold; margin: 0;",
+              empresas # Reemplaza "5000" con el número real de empresas en México
+            )
+          )
+        )
+      )
     ),
+    
+    tags$div(
+      id ="values",
+      class= "container-fluid",
+      DT::dataTableOutput("tabla_resultados")
+    ),
+    
     tags$div(id = "contact", class = "jumbotron",
              tags$h1("contacto"),
              tags$p("aqui los contactos")
@@ -156,7 +203,49 @@ como por ejemplo requieren de saber:"),
   )
 )
 
-server <- function(input, output) { }
+server <- function(input, output) {
+  empresas <- length(unique(data$CODIGO))
+  output$tabla_resultados <- DT::renderDataTable({
+    DT::datatable(
+      datos_procesados,
+      options = list(
+        pageLength = 10,  # Número de filas por página
+        lengthMenu = c(10, 25, 50),  # Opciones de selección de filas por página
+        searching = TRUE  # Habilitar la búsqueda en la tabla
+      )
+    )
+  })
+  
+}
 
 shinyApp(ui = ui, server = server)
 
+
+
+#agrupado <- aggregate(valor ~ actividad, data = datos_combinados, FUN = sum)
+
+#agrupamientos
+#palabras_clave <- datos_combinados %>%
+ # unnest_tokens(palabra, DESC_CODIGO) %>%
+#  count(palabra, sort = TRUE) %>%
+ # filter(n > 1) %>%
+  #pull(palabra)
+
+#datos_combinados <- datos_combinados %>%
+ # mutate(grupo = case_when(
+  #  str_detect(DESC_CODIGO, paste(palabras_clave, collapse = "|")) ~ DESC_CODIGO,
+   # TRUE ~ "Otro"
+  #))
+#agrupamientos primera palabra
+
+#datos_combinados <- datos_combinados %>%
+ # mutate(grupo = word(DESC_CODIGO, 1))
+         
+#agrupado <- datos_combinados %>%
+ # group_by(grupo) %>%
+  #summarise(total_filas = n())         
+
+#agrupado <- datos_combinados %>%
+ # group_by(grupo) %>%
+#  count() %>%
+ # rename(total_valor = n)

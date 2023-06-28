@@ -1,0 +1,1850 @@
+﻿CODIGO,DESC_CODIGO,CLASIFICADOR_CODIGO
+0,Sector Privado y Paraestatal,Gran Sector
+11,"Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",Sector
+112,Cría y explotación de animales,Subsector
+1125,Acuicultura,Rama
+11251,Acuicultura,Subrama
+112511,Camaronicultura ,Clase
+112512,"Piscicultura y otra acuicultura, excepto camaronicultura ",Clase
+114,"Pesca, caza y captura",Subsector
+1141,Pesca,Rama
+11411,Pesca,Subrama
+114111,Pesca de camarón ,Clase
+114112,Pesca de túnidos ,Clase
+114113,Pesca de sardina y anchoveta ,Clase
+114119,"Pesca y captura de otros peces, crustáceos, moluscos y otras especies ",Clase
+115,Servicios relacionados con las actividades agropecuarias y forestales,Subsector
+1151,Servicios relacionados con la agricultura,Rama
+11511,Servicios relacionados con la agricultura,Subrama
+115111,Servicios de fumigación agrícola ,Clase
+115112,Despepite de algodón ,Clase
+115113,Beneficio de productos agrícolas ,Clase
+115119,Otros servicios relacionados con la agricultura ,Clase
+1152,Servicios relacionados con la cría y explotación de animales,Rama
+11521,Servicios relacionados con la cría y explotación de animales,Subrama
+115210,Servicios relacionados con la cría y explotación de animales ,Clase
+1153,Servicios relacionados con el aprovechamiento forestal,Rama
+11531,Servicios relacionados con el aprovechamiento forestal,Subrama
+115310,Servicios relacionados con el aprovechamiento forestal ,Clase
+21,Minería,Sector
+211,Extracción de petróleo y gas,Subsector
+2111,Extracción de petróleo y gas,Rama
+21111,Extracción de petróleo y gas ,Subrama
+211111,Extracción de petróleo y gas natural asociado ,Clase
+212,"Minería de minerales metálicos y no metálicos, excepto petróleo y gas",Subsector
+2121,Minería de carbón mineral,Rama
+21211,Minería de carbón mineral,Subrama
+212110,Minería de carbón mineral ,Clase
+2122,Minería de minerales metálicos,Rama
+21221,Minería de hierro,Subrama
+212210,Minería de hierro ,Clase
+21222,Minería de oro y plata,Subrama
+212221,Minería de oro ,Clase
+212222,Minería de plata ,Clase
+21223,"Minería de cobre, plomo y zinc",Subrama
+212231,Minería de cobre ,Clase
+212232,Minería de plomo y zinc ,Clase
+21229,Minería de otros minerales metálicos,Subrama
+212291,Minería de manganeso ,Clase
+212292,Minería de mercurio y antimonio ,Clase
+212299,Minería de otros minerales metálicos ,Clase
+2123,Minería de minerales no metálicos,Rama
+21231,"Minería de piedra caliza, mármol y otras piedras dimensionadas",Subrama
+212311,Minería de piedra caliza ,Clase
+212312,Minería de mármol ,Clase
+212319,Minería de otras piedras dimensionadas ,Clase
+21232,"Minería de arena, grava, tezontle, tepetate, arcillas y de otros minerales refractarios",Subrama
+212321,Minería de arena y grava para la construcción ,Clase
+212322,Minería de tezontle y tepetate ,Clase
+212323,Minería de feldespato ,Clase
+212324,Minería de sílice ,Clase
+212325,Minería de caolín ,Clase
+212329,Minería de otras arcillas y de otros minerales refractarios ,Clase
+21239,Minería de otros minerales no metálicos,Subrama
+212391,Minería de sal ,Clase
+212392,Minería de piedra de yeso ,Clase
+212393,Minería de barita ,Clase
+212394,Minería de roca fosfórica ,Clase
+212395,Minería de fluorita ,Clase
+212396,Minería de grafito ,Clase
+212397,Minería de azufre ,Clase
+212398,Minería de minerales no metálicos para productos químicos ,Clase
+212399,Minería de otros minerales no metálicos ,Clase
+213,Servicios relacionados con la minería,Subsector
+2131,Servicios relacionados con la minería,Rama
+21311,Servicios relacionados con la minería,Subrama
+213111,Perforación de pozos petroleros y de gas ,Clase
+213119,Otros servicios relacionados con la minería ,Clase
+22,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",Sector
+221,"Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",Subsector
+2211,"Generación, transmisión, distribución y comercialización de energía eléctrica",Rama
+22111,Generación de energía eléctrica,Subrama
+221111,Generación de electricidad a partir de combustibles fósiles ,Clase
+221112,Generación de electricidad a partir de energía hidráulica ,Clase
+221113,Generación de electricidad a partir de energía solar ,Clase
+221114,Generación de electricidad a partir de energía eólica ,Clase
+221119,Generación de electricidad a partir de otro tipo de energía ,Clase
+22112,"Transmisión, distribución y comercialización de energía eléctrica",Subrama
+221121,Transmisión de energía eléctrica ,Clase
+221122,Distribución de energía eléctrica ,Clase
+221123,Comercialización de energía eléctrica ,Clase
+2212,Suministro de gas natural por ductos al consumidor final,Rama
+22121,Suministro de gas natural por ductos al consumidor final,Subrama
+221210,Suministro de gas natural por ductos al consumidor final ,Clase
+2213,"Captación, tratamiento y suministro de agua",Rama
+22131,"Captación, tratamiento y suministro de agua ",Subrama
+221311,"Captación, tratamiento y suministro de agua realizados por el sector privado ",Clase
+221312,"Captación, tratamiento y suministro de agua realizados por el sector público ",Clase
+23,Construcción,Sector
+236,Edificación,Subsector
+2361,Edificación residencial,Rama
+23611,Edificación residencial,Subrama
+236111,Edificación de vivienda unifamiliar ,Clase
+236112,Edificación de vivienda multifamiliar ,Clase
+236113,Supervisión de edificación residencial ,Clase
+2362,Edificación no residencial,Rama
+23621,Edificación de naves y plantas industriales,Subrama
+236211,"Edificación de naves y plantas industriales, excepto la supervisión ",Clase
+236212,Supervisión de edificación de naves y plantas industriales ,Clase
+23622,Edificación de inmuebles comerciales y de servicios,Subrama
+236221,"Edificación de inmuebles comerciales y de servicios, excepto la supervisión ",Clase
+236222,Supervisión de edificación de inmuebles comerciales y de servicios ,Clase
+237,Construcción de obras de ingeniería civil,Subsector
+2371,"Construcción de obras para el suministro de agua, petróleo, gas, energía eléctrica y telecomunicaciones",Rama
+23711,"Construcción de obras para el tratamiento, distribución y suministro de agua, drenaje y riego",Subrama
+237111,"Construcción de obras para el tratamiento, distribución y suministro de agua y drenaje ",Clase
+237112,Construcción de sistemas de riego agrícola ,Clase
+237113,"Supervisión de construcción de obras para el tratamiento, distribución y suministro de agua, drenaje y riego ",Clase
+23712,Construcción de obras para petróleo y gas,Subrama
+237121,Construcción de sistemas de distribución de petróleo y gas ,Clase
+237122,Construcción de plantas de refinería y petroquímica ,Clase
+237123,Supervisión de construcción de obras para petróleo y gas ,Clase
+23713,Construcción de obras de generación y conducción de energía eléctrica y de obras para telecomunicaciones,Subrama
+237131,Construcción de obras de generación y conducción de energía eléctrica ,Clase
+237132,Construcción de obras para telecomunicaciones ,Clase
+237133,Supervisión de construcción de obras de generación y conducción de energía eléctrica y de obras para telecomunicaciones ,Clase
+2372,División de terrenos y construcción de obras de urbanización,Rama
+23721,División de terrenos y construcción de obras de urbanización,Subrama
+237211,División de terrenos ,Clase
+237212,Construcción de obras de urbanización ,Clase
+237213,Supervisión de división de terrenos y de construcción de obras de urbanización ,Clase
+2373,Construcción de vías de comunicación,Rama
+23731,Construcción de vías de comunicación,Subrama
+237311,Instalación de señalamientos y protecciones en obras viales ,Clase
+237312,"Construcción de carreteras, puentes y similares ",Clase
+237313,Supervisión de construcción de vías de comunicación ,Clase
+2379,Otras construcciones de ingeniería civil,Rama
+23799,Otras construcciones de ingeniería civil,Subrama
+237991,Construcción de presas y represas ,Clase
+237992,"Construcción de obras marítimas, fluviales y subacuáticas ",Clase
+237993,Construcción de obras para transporte eléctrico y ferroviario ,Clase
+237994,Supervisión de construcción de otras obras de ingeniería civil ,Clase
+237999,Otras construcciones de ingeniería civil ,Clase
+238,Trabajos especializados para la construcción,Subsector
+2381,"Cimentaciones, montaje de estructuras prefabricadas y trabajos en exteriores",Rama
+23811,Trabajos de cimentaciones ,Subrama
+238110,Trabajos de cimentaciones ,Clase
+23812,Montaje de estructuras prefabricadas ,Subrama
+238121,Montaje de estructuras de concreto prefabricadas ,Clase
+238122,Montaje de estructuras de acero prefabricadas ,Clase
+23813,Trabajos de albañilería ,Subrama
+238130,Trabajos de albañilería ,Clase
+23819,Otros trabajos en exteriores ,Subrama
+238190,Otros trabajos en exteriores ,Clase
+2382,Instalaciones y equipamiento en construcciones,Rama
+23821,Instalaciones eléctricas en construcciones,Subrama
+238210,Instalaciones eléctricas en construcciones ,Clase
+23822,"Instalaciones hidrosanitarias, de gas, sistemas centrales de aire acondicionado y calefacción",Subrama
+238221,Instalaciones hidrosanitarias y de gas ,Clase
+238222,Instalaciones de sistemas centrales de aire acondicionado y calefacción ,Clase
+23829,Otras instalaciones y equipamiento en construcciones,Subrama
+238290,Otras instalaciones y equipamiento en construcciones ,Clase
+2383,Trabajos de acabados en edificaciones,Rama
+23831,"Colocación de muros falsos, aislamiento y enyesado",Subrama
+238311,Colocación de muros falsos y aislamiento ,Clase
+238312,"Trabajos de enyesado, empastado y tiroleado ",Clase
+23832,Trabajos de pintura y otros cubrimientos de paredes,Subrama
+238320,Trabajos de pintura y otros cubrimientos de paredes ,Clase
+23833,Colocación de pisos flexibles y de madera,Subrama
+238330,Colocación de pisos flexibles y de madera ,Clase
+23834,Colocación de pisos cerámicos y azulejos,Subrama
+238340,Colocación de pisos cerámicos y azulejos ,Clase
+23835,Realización de trabajos de carpintería en el lugar de la construcción,Subrama
+238350,Realización de trabajos de carpintería en el lugar de la construcción ,Clase
+23839,Otros trabajos de acabados en edificaciones,Subrama
+238390,Otros trabajos de acabados en edificaciones ,Clase
+2389,Otros trabajos especializados para la construcción,Rama
+23891,Preparación de terrenos para la construcción,Subrama
+238910,Preparación de terrenos para la construcción ,Clase
+23899,Otros trabajos especializados para la construcción,Subrama
+238990,Otros trabajos especializados para la construcción ,Clase
+31-33,Industrias manufactureras,Sector
+311,Industria alimentaria,Subsector
+3111,Elaboración de alimentos para animales,Rama
+31111,Elaboración de alimentos para animales,Subrama
+311110,Elaboración de alimentos para animales ,Clase
+3112,Molienda de granos y de semillas y obtención de aceites y grasas,Rama
+31121,"Beneficio del arroz, elaboración de productos de molinería, y de malta",Subrama
+311211,Beneficio del arroz ,Clase
+311212,Elaboración de harina de trigo ,Clase
+311213,Elaboración de harina de maíz ,Clase
+311214,Elaboración de harina de otros productos agrícolas ,Clase
+311215,Elaboración de malta ,Clase
+31122,"Elaboración de almidones, aceites y grasas vegetales comestibles",Subrama
+311221,Elaboración de féculas y otros almidones y sus derivados ,Clase
+311222,Elaboración de aceites y grasas vegetales comestibles ,Clase
+31123,Elaboración de cereales para el desayuno,Subrama
+311230,Elaboración de cereales para el desayuno ,Clase
+3113,"Elaboración de azúcares, chocolates, dulces y similares",Rama
+31131,Elaboración de azúcares,Subrama
+311311,Elaboración de azúcar de caña ,Clase
+311319,Elaboración de otros azúcares ,Clase
+31134,"Elaboración de dulces, chicles y productos de confitería que no sean de chocolate",Subrama
+311340,"Elaboración de dulces, chicles y productos de confitería que no sean de chocolate ",Clase
+31135,Elaboración de chocolate y productos de chocolate,Subrama
+311350,Elaboración de chocolate y productos de chocolate ,Clase
+3114,"Conservación de frutas, verduras, guisos y otros alimentos preparados",Rama
+31141,"Congelación de frutas, verduras, guisos y otros alimentos preparados",Subrama
+311411,Congelación de frutas y verduras ,Clase
+311412,Congelación de guisos y otros alimentos preparados ,Clase
+31142,"Conservación de frutas, verduras, guisos y otros alimentos preparados por procesos distintos a la congelación",Subrama
+311421,Deshidratación de frutas y verduras ,Clase
+311422,Conservación de frutas y verduras por procesos distintos a la congelación y la deshidratación ,Clase
+311423,Conservación de guisos y otros alimentos preparados por procesos distintos a la congelación ,Clase
+3115,Elaboración de productos lácteos,Rama
+31151,Elaboración de leche y derivados lácteos,Subrama
+311511,Elaboración de leche líquida ,Clase
+311512,"Elaboración de leche en polvo, condensada y evaporada ",Clase
+311513,Elaboración de derivados y fermentos lácteos ,Clase
+31152,Elaboración de helados y paletas,Subrama
+311520,Elaboración de helados y paletas ,Clase
+3116,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",Rama
+31161,"Matanza, empacado y procesamiento de carne de ganado, aves y otros animales comestibles",Subrama
+311611,"Matanza de ganado, aves y otros animales comestibles ",Clase
+311612,"Corte y empacado de carne de ganado, aves y otros animales comestibles ",Clase
+311613,"Preparación de embutidos y otras conservas de carne de ganado, aves y otros animales comestibles ",Clase
+311614,Elaboración de manteca y otras grasas animales comestibles ,Clase
+3117,Preparación y envasado de pescados y mariscos,Rama
+31171,Preparación y envasado de pescados y mariscos,Subrama
+311710,Preparación y envasado de pescados y mariscos ,Clase
+3118,Elaboración de productos de panadería y tortillas,Rama
+31181,Elaboración de pan y otros productos de panadería,Subrama
+311811,Panificación industrial ,Clase
+311812,Panificación tradicional ,Clase
+311813,Elaboración de tortillas de harina de trigo de forma tradicional ,Clase
+31182,Elaboración de galletas y pastas para sopa,Subrama
+311820,Elaboración de galletas y pastas para sopa ,Clase
+31183,Elaboración de tortillas de maíz y molienda de nixtamal,Subrama
+311830,Elaboración de tortillas de maíz y molienda de nixtamal ,Clase
+3119,Otras industrias alimentarias,Rama
+31191,Elaboración de botanas,Subrama
+311910,Elaboración de botanas ,Clase
+31192,Industrias del café y del té,Subrama
+311921,Beneficio del café ,Clase
+311922,Elaboración de café tostado y molido ,Clase
+311923,Elaboración de café instantáneo ,Clase
+311924,Preparación y envasado de té ,Clase
+31193,"Elaboración de concentrados, polvos, jarabes y esencias de sabor para bebidas",Subrama
+311930,"Elaboración de concentrados, polvos, jarabes y esencias de sabor para bebidas ",Clase
+31194,Elaboración de condimentos y aderezos,Subrama
+311940,Elaboración de condimentos y aderezos ,Clase
+31199,Elaboración de otros alimentos,Subrama
+311991,Elaboración de gelatinas y otros postres en polvo ,Clase
+311992,Elaboración de levadura ,Clase
+311993,Elaboración de alimentos frescos para consumo inmediato ,Clase
+311999,Elaboración de otros alimentos ,Clase
+312,Industria de las bebidas y del tabaco,Subsector
+3121,Industria de las bebidas,Rama
+31211,"Elaboración de refrescos, hielo y otras bebidas no alcohólicas, y purificación y embotellado de agua",Subrama
+312111,Elaboración de refrescos y otras bebidas no alcohólicas ,Clase
+312112,Purificación y embotellado de agua ,Clase
+312113,Elaboración de hielo ,Clase
+31212,Elaboración de cerveza,Subrama
+312120,Elaboración de cerveza ,Clase
+31213,"Elaboración de bebidas alcohólicas a base de uva y bebidas fermentadas, excepto cerveza",Subrama
+312131,Elaboración de bebidas alcohólicas a base de uva ,Clase
+312132,Elaboración de pulque ,Clase
+312139,Elaboración de sidra y otras bebidas fermentadas ,Clase
+31214,"Elaboración de bebidas destiladas, excepto de uva",Subrama
+312141,Elaboración de ron y otras bebidas destiladas de caña ,Clase
+312142,Elaboración de bebidas destiladas de agave ,Clase
+312143,Obtención de alcohol etílico potable ,Clase
+312149,Elaboración de otras bebidas destiladas ,Clase
+3122,Industria del tabaco,Rama
+31221,Beneficio del tabaco ,Subrama
+312210,Beneficio del tabaco ,Clase
+31222,Elaboración de productos de tabaco ,Subrama
+312221,Elaboración de cigarros ,Clase
+312222,Elaboración de puros y otros productos de tabaco ,Clase
+313,Fabricación de insumos textiles y acabado de textiles,Subsector
+3131,"Preparación e hilado de fibras textiles, y fabricación de hilos",Rama
+31311,"Preparación e hilado de fibras textiles, y fabricación de hilos",Subrama
+313111,Preparación e hilado de fibras duras naturales ,Clase
+313112,Preparación e hilado de fibras blandas naturales ,Clase
+313113,Fabricación de hilos para coser y bordar ,Clase
+3132,Fabricación de telas,Rama
+31321,Fabricación de telas anchas de tejido de trama,Subrama
+313210,Fabricación de telas anchas de tejido de trama ,Clase
+31322,Fabricación de telas angostas de tejido de trama y pasamanería,Subrama
+313220,Fabricación de telas angostas de tejido de trama y pasamanería ,Clase
+31323,Fabricación de telas no tejidas (comprimidas),Subrama
+313230,Fabricación de telas no tejidas (comprimidas) ,Clase
+31324,Fabricación de telas de tejido de punto,Subrama
+313240,Fabricación de telas de tejido de punto ,Clase
+3133,Acabado de productos textiles y fabricación de telas recubiertas,Rama
+31331,Acabado de productos textiles,Subrama
+313310,Acabado de productos textiles ,Clase
+31332,Fabricación de telas recubiertas,Subrama
+313320,Fabricación de telas recubiertas ,Clase
+314,"Fabricación de productos textiles, excepto prendas de vestir",Subsector
+3141,"Confección de alfombras, blancos y similares",Rama
+31411,Fabricación de alfombras y tapetes,Subrama
+314110,Fabricación de alfombras y tapetes ,Clase
+31412,"Confección de cortinas, blancos y similares",Subrama
+314120,"Confección de cortinas, blancos y similares ",Clase
+3149,"Fabricación de otros productos textiles, excepto prendas de vestir",Rama
+31491,Confección de costales y productos de textiles recubiertos y de materiales sucedáneos,Subrama
+314911,Confección de costales ,Clase
+314912,Confección de productos de textiles recubiertos y de materiales sucedáneos ,Clase
+31499,Fabricación de otros productos textiles no clasificados en otra parte,Subrama
+314991,"Confección, bordado y deshilado de productos textiles ",Clase
+314992,Fabricación de redes y otros productos de cordelería ,Clase
+314993,Fabricación de productos textiles reciclados ,Clase
+314999,Fabricación de banderas y otros productos textiles no clasificados en otra parte ,Clase
+315,Fabricación de prendas de vestir,Subsector
+3151,Fabricación de prendas de vestir de tejido de punto,Rama
+31511,Fabricación de calcetines y medias de tejido de punto,Subrama
+315110,Fabricación de calcetines y medias de tejido de punto ,Clase
+31519,Fabricación de otras prendas de vestir de tejido de punto,Subrama
+315191,Fabricación de ropa interior de tejido de punto ,Clase
+315192,Fabricación de ropa exterior de tejido de punto ,Clase
+3152,Confección de prendas de vestir,Rama
+31521,"Confección de prendas de vestir de cuero, piel y materiales sucedáneos ",Subrama
+315210,"Confección de prendas de vestir de cuero, piel y materiales sucedáneos ",Clase
+31522,Confección de prendas de vestir de materiales textiles ,Subrama
+315221,Confección en serie de ropa interior y de dormir ,Clase
+315222,Confección en serie de camisas ,Clase
+315223,Confección en serie de uniformes ,Clase
+315224,Confección en serie de disfraces y trajes típicos ,Clase
+315225,Confección de prendas de vestir sobre medida ,Clase
+315229,Confección en serie de otra ropa exterior de materiales textiles ,Clase
+3159,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte,Rama
+31599,Confección de accesorios de vestir y otras prendas de vestir no clasificados en otra parte,Subrama
+315991,Confección de sombreros y gorras ,Clase
+315999,Confección de otros accesorios y prendas de vestir no clasificados en otra parte ,Clase
+316,"Curtido y acabado de cuero y piel, y fabricación de productos de cuero, piel y materiales sucedáneos",Subsector
+3161,Curtido y acabado de cuero y piel,Rama
+31611,Curtido y acabado de cuero y piel,Subrama
+316110,Curtido y acabado de cuero y piel ,Clase
+3162,Fabricación de calzado,Rama
+31621,Fabricación de calzado,Subrama
+316211,Fabricación de calzado con corte de piel y cuero ,Clase
+316212,Fabricación de calzado con corte de tela ,Clase
+316213,Fabricación de calzado de plástico ,Clase
+316214,Fabricación de calzado de hule ,Clase
+316219,Fabricación de huaraches y calzado de otro tipo de materiales ,Clase
+3169,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",Rama
+31699,"Fabricación de otros productos de cuero, piel y materiales sucedáneos",Subrama
+316991,"Fabricación de bolsos de mano, maletas y similares ",Clase
+316999,"Fabricación de otros productos de cuero, piel y materiales sucedáneos ",Clase
+321,Industria de la madera,Subsector
+3211,Aserrado y conservación de la madera,Rama
+32111,Aserrado y conservación de la madera,Subrama
+321111,Aserraderos integrados ,Clase
+321112,Aserrado de tablas y tablones ,Clase
+321113,Tratamiento de la madera y fabricación de postes y durmientes ,Clase
+3212,Fabricación de laminados y aglutinados de madera,Rama
+32121,Fabricación de laminados y aglutinados de madera,Subrama
+321210,Fabricación de laminados y aglutinados de madera ,Clase
+3219,Fabricación de otros productos de madera,Rama
+32191,Fabricación de productos de madera para la construcción,Subrama
+321910,Fabricación de productos de madera para la construcción ,Clase
+32192,Fabricación de productos para embalaje y envases de madera,Subrama
+321920,Fabricación de productos para embalaje y envases de madera ,Clase
+32199,"Fabricación de otros productos de madera y de materiales trenzables, excepto palma",Subrama
+321991,"Fabricación de productos de materiales trenzables, excepto palma ",Clase
+321992,Fabricación de artículos y utensilios de madera para el hogar ,Clase
+321993,Fabricación de productos de madera de uso industrial ,Clase
+321999,Fabricación de otros productos de madera ,Clase
+322,Industria del papel,Subsector
+3221,"Fabricación de pulpa, papel y cartón",Rama
+32211,Fabricación de pulpa,Subrama
+322110,Fabricación de pulpa ,Clase
+32212,Fabricación de papel,Subrama
+322121,Fabricación de papel en plantas integradas ,Clase
+322122,Fabricación de papel a partir de pulpa ,Clase
+32213,Fabricación de cartón,Subrama
+322131,Fabricación de cartón en plantas integradas ,Clase
+322132,Fabricación de cartón y cartoncillo a partir de pulpa ,Clase
+3222,Fabricación de productos de cartón y papel,Rama
+32221,Fabricación de envases de cartón,Subrama
+322210,Fabricación de envases de cartón ,Clase
+32222,Fabricación de bolsas de papel y productos celulósicos recubiertos y tratados,Subrama
+322220,Fabricación de bolsas de papel y productos celulósicos recubiertos y tratados ,Clase
+32223,Fabricación de productos de papelería,Subrama
+322230,Fabricación de productos de papelería ,Clase
+32229,Fabricación de otros productos de cartón y papel,Subrama
+322291,Fabricación de pañales desechables y productos sanitarios ,Clase
+322299,Fabricación de otros productos de cartón y papel ,Clase
+323,Impresión e industrias conexas,Subsector
+3231,Impresión e industrias conexas,Rama
+32311,Impresión,Subrama
+323111,"Impresión de libros, periódicos y revistas ",Clase
+323119,Impresión de formas continuas y otros impresos ,Clase
+32312,Industrias conexas a la impresión,Subrama
+323120,Industrias conexas a la impresión ,Clase
+324,Fabricación de productos derivados del petróleo y del carbón,Subsector
+3241,Fabricación de productos derivados del petróleo y del carbón,Rama
+32411,Refinación de petróleo,Subrama
+324110,Refinación de petróleo ,Clase
+32412,Fabricación de productos de asfalto,Subrama
+324120,Fabricación de productos de asfalto ,Clase
+32419,Fabricación de otros productos derivados del petróleo refinado y del carbón mineral,Subrama
+324191,Fabricación de aceites y grasas lubricantes ,Clase
+324199,Fabricación de coque y otros productos derivados del petróleo refinado y del carbón mineral ,Clase
+325,Industria química,Subsector
+3251,Fabricación de productos químicos básicos,Rama
+32511,Fabricación de petroquímicos básicos del gas natural y del petróleo refinado,Subrama
+325110,Fabricación de petroquímicos básicos del gas natural y del petróleo refinado ,Clase
+32512,Fabricación de gases industriales,Subrama
+325120,Fabricación de gases industriales ,Clase
+32513,Fabricación de pigmentos y colorantes sintéticos,Subrama
+325130,Fabricación de pigmentos y colorantes sintéticos ,Clase
+32518,Fabricación de otros productos químicos básicos inorgánicos,Subrama
+325180,Fabricación de otros productos químicos básicos inorgánicos ,Clase
+32519,Fabricación de otros productos químicos básicos orgánicos,Subrama
+325190,Fabricación de otros productos químicos básicos orgánicos ,Clase
+3252,"Fabricación de resinas y hules sintéticos, y fibras químicas",Rama
+32521,Fabricación de resinas y hules sintéticos,Subrama
+325211,Fabricación de resinas sintéticas ,Clase
+325212,Fabricación de hules sintéticos ,Clase
+32522,Fabricación de fibras químicas,Subrama
+325220,Fabricación de fibras químicas ,Clase
+3253,"Fabricación de fertilizantes, pesticidas y otros agroquímicos",Rama
+32531,Fabricación de fertilizantes,Subrama
+325310,Fabricación de fertilizantes ,Clase
+32532,"Fabricación de pesticidas y otros agroquímicos, excepto fertilizantes",Subrama
+325320,"Fabricación de pesticidas y otros agroquímicos, excepto fertilizantes ",Clase
+3254,Fabricación de productos farmacéuticos,Rama
+32541,Fabricación de productos farmacéuticos,Subrama
+325411,Fabricación de materias primas para la industria farmacéutica ,Clase
+325412,Fabricación de preparaciones farmacéuticas ,Clase
+3255,"Fabricación de pinturas, recubrimientos y adhesivos",Rama
+32551,Fabricación de pinturas y recubrimientos,Subrama
+325510,Fabricación de pinturas y recubrimientos ,Clase
+32552,Fabricación de adhesivos,Subrama
+325520,Fabricación de adhesivos ,Clase
+3256,"Fabricación de jabones, limpiadores y preparaciones de tocador",Rama
+32561,"Fabricación de jabones, limpiadores y dentífricos",Subrama
+325610,"Fabricación de jabones, limpiadores y dentífricos ",Clase
+32562,"Fabricación de cosméticos, perfumes y otras preparaciones de tocador",Subrama
+325620,"Fabricación de cosméticos, perfumes y otras preparaciones de tocador ",Clase
+3259,Fabricación de otros productos químicos,Rama
+32591,Fabricación de tintas para impresión,Subrama
+325910,Fabricación de tintas para impresión ,Clase
+32592,Fabricación de explosivos,Subrama
+325920,Fabricación de explosivos ,Clase
+32599,Fabricación de otros productos químicos,Subrama
+325991,Fabricación de cerillos ,Clase
+325992,"Fabricación de películas, placas y papel fotosensible para fotografía ",Clase
+325993,Fabricación de resinas de plásticos reciclados ,Clase
+325999,Fabricación de otros productos químicos ,Clase
+326,Industria del plástico y del hule,Subsector
+3261,Fabricación de productos de plástico,Rama
+32611,Fabricación de bolsas y películas de plástico flexible,Subrama
+326110,Fabricación de bolsas y películas de plástico flexible ,Clase
+32612,"Fabricación de tubería y conexiones, y tubos para embalaje",Subrama
+326120,"Fabricación de tubería y conexiones, y tubos para embalaje ",Clase
+32613,Fabricación de laminados de plástico rígido,Subrama
+326130,Fabricación de laminados de plástico rígido ,Clase
+32614,Fabricación de espumas y productos de poliestireno,Subrama
+326140,Fabricación de espumas y productos de poliestireno ,Clase
+32615,Fabricación de espumas y productos de uretano,Subrama
+326150,Fabricación de espumas y productos de uretano ,Clase
+32616,Fabricación de botellas de plástico,Subrama
+326160,Fabricación de botellas de plástico ,Clase
+32619,Fabricación de otros productos de plástico,Subrama
+326191,Fabricación de productos de plástico para el hogar con y sin reforzamiento ,Clase
+326192,Fabricación de autopartes de plástico con y sin reforzamiento ,Clase
+326193,Fabricación de envases y contenedores de plástico para embalaje con y sin reforzamiento ,Clase
+326194,Fabricación de otros productos de plástico de uso industrial sin reforzamiento ,Clase
+326198,Fabricación de otros productos de plástico con reforzamiento ,Clase
+326199,Fabricación de otros productos de plástico sin reforzamiento ,Clase
+3262,Fabricación de productos de hule,Rama
+32621,Fabricación y revitalización de llantas,Subrama
+326211,Fabricación de llantas y cámaras ,Clase
+326212,Revitalización de llantas ,Clase
+32622,Fabricación de bandas y mangueras de hule y de plástico,Subrama
+326220,Fabricación de bandas y mangueras de hule y de plástico ,Clase
+32629,Fabricación de otros productos de hule,Subrama
+326290,Fabricación de otros productos de hule ,Clase
+327,Fabricación de productos a base de minerales no metálicos,Subsector
+3271,Fabricación de productos a base de arcillas y minerales refractarios,Rama
+32711,"Fabricación de artículos de alfarería, porcelana, loza y muebles de baño",Subrama
+327111,"Fabricación de artículos de alfarería, porcelana y loza ",Clase
+327112,Fabricación de muebles de baño ,Clase
+32712,Fabricación de productos a base de arcilla para la construcción,Subrama
+327121,Fabricación de ladrillos no refractarios ,Clase
+327122,Fabricación de azulejos y losetas no refractarias ,Clase
+327123,Fabricación de productos refractarios ,Clase
+3272,Fabricación de vidrio y productos de vidrio,Rama
+32721,Fabricación de vidrio y productos de vidrio,Subrama
+327211,Fabricación de vidrio ,Clase
+327212,Fabricación de espejos ,Clase
+327213,Fabricación de envases y ampolletas de vidrio ,Clase
+327214,Fabricación de fibra de vidrio ,Clase
+327215,Fabricación de artículos de vidrio de uso doméstico ,Clase
+327216,Fabricación de artículos de vidrio de uso industrial y comercial ,Clase
+327219,Fabricación de otros productos de vidrio ,Clase
+3273,Fabricación de cemento y productos de concreto,Rama
+32731,Fabricación de cemento y productos a base de cemento en plantas integradas,Subrama
+327310,Fabricación de cemento y productos a base de cemento en plantas integradas ,Clase
+32732,Fabricación de concreto,Subrama
+327320,Fabricación de concreto ,Clase
+32733,Fabricación de tubos y bloques de cemento y concreto,Subrama
+327330,Fabricación de tubos y bloques de cemento y concreto ,Clase
+32739,Fabricación de otros productos de cemento y concreto,Subrama
+327391,Fabricación de productos preesforzados de concreto ,Clase
+327399,Fabricación de otros productos de cemento y concreto ,Clase
+3274,"Fabricación de cal, yeso y productos de yeso",Rama
+32741,Fabricación de cal,Subrama
+327410,Fabricación de cal ,Clase
+32742,Fabricación de yeso y productos de yeso,Subrama
+327420,Fabricación de yeso y productos de yeso ,Clase
+3279,Fabricación de otros productos a base de minerales no metálicos,Rama
+32791,Fabricación de productos abrasivos,Subrama
+327910,Fabricación de productos abrasivos ,Clase
+32799,Fabricación de otros productos a base de minerales no metálicos,Subrama
+327991,Fabricación de productos a base de piedras de cantera ,Clase
+327999,Fabricación de otros productos a base de minerales no metálicos ,Clase
+331,Industrias metálicas básicas,Subsector
+3311,Industria básica del hierro y del acero,Rama
+33111,Industria básica del hierro y del acero,Subrama
+331111,Complejos siderúrgicos ,Clase
+331112,Fabricación de desbastes primarios y ferroaleaciones ,Clase
+3312,Fabricación de productos de hierro y acero,Rama
+33121,Fabricación de tubos y postes de hierro y acero,Subrama
+331210,Fabricación de tubos y postes de hierro y acero ,Clase
+33122,Fabricación de otros productos de hierro y acero,Subrama
+331220,Fabricación de otros productos de hierro y acero ,Clase
+3313,Industria básica del aluminio,Rama
+33131,Industria básica del aluminio,Subrama
+331310,Industria básica del aluminio ,Clase
+3314,"Industrias de metales no ferrosos, excepto aluminio",Rama
+33141,"Fundición y refinación de cobre, metales preciosos y de otros metales no ferrosos",Subrama
+331411,Fundición y refinación de cobre ,Clase
+331412,Fundición y refinación de metales preciosos ,Clase
+331419,Fundición y refinación de otros metales no ferrosos ,Clase
+33142,Laminación secundaria de cobre,Subrama
+331420,Laminación secundaria de cobre ,Clase
+33149,Laminación secundaria de otros metales no ferrosos,Subrama
+331490,Laminación secundaria de otros metales no ferrosos ,Clase
+3315,Moldeo por fundición de piezas metálicas,Rama
+33151,Moldeo por fundición de piezas de hierro y acero,Subrama
+331510,Moldeo por fundición de piezas de hierro y acero ,Clase
+33152,Moldeo por fundición de piezas metálicas no ferrosas,Subrama
+331520,Moldeo por fundición de piezas metálicas no ferrosas ,Clase
+332,Fabricación de productos metálicos,Subsector
+3321,Fabricación de productos metálicos forjados y troquelados,Rama
+33211,Fabricación de productos metálicos forjados y troquelados,Subrama
+332110,Fabricación de productos metálicos forjados y troquelados ,Clase
+3322,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos,Rama
+33221,Fabricación de herramientas de mano sin motor y utensilios de cocina metálicos,Subrama
+332211,Fabricación de herramientas de mano metálicas sin motor ,Clase
+332212,Fabricación de utensilios de cocina metálicos ,Clase
+3323,Fabricación de estructuras metálicas y productos de herrería,Rama
+33231,Fabricación de estructuras metálicas,Subrama
+332310,Fabricación de estructuras metálicas ,Clase
+33232,Fabricación de productos de herrería,Subrama
+332320,Fabricación de productos de herrería ,Clase
+3324,"Fabricación de calderas, tanques y envases metálicos",Rama
+33241,Fabricación de calderas industriales,Subrama
+332410,Fabricación de calderas industriales ,Clase
+33242,Fabricación de tanques metálicos de calibre grueso,Subrama
+332420,Fabricación de tanques metálicos de calibre grueso ,Clase
+33243,Fabricación de envases metálicos de calibre ligero,Subrama
+332430,Fabricación de envases metálicos de calibre ligero ,Clase
+3325,Fabricación de herrajes y cerraduras,Rama
+33251,Fabricación de herrajes y cerraduras,Subrama
+332510,Fabricación de herrajes y cerraduras ,Clase
+3326,"Fabricación de alambre, productos de alambre y resortes",Rama
+33261,"Fabricación de alambre, productos de alambre y resortes",Subrama
+332610,"Fabricación de alambre, productos de alambre y resortes ",Clase
+3327,Maquinado de piezas y fabricación de tornillos,Rama
+33271,Maquinado de piezas para maquinaria y equipo en general,Subrama
+332710,Maquinado de piezas para maquinaria y equipo en general ,Clase
+33272,"Fabricación de tornillos, tuercas, remaches y similares",Subrama
+332720,"Fabricación de tornillos, tuercas, remaches y similares ",Clase
+3328,Recubrimientos y terminados metálicos,Rama
+33281,Recubrimientos y terminados metálicos,Subrama
+332810,Recubrimientos y terminados metálicos ,Clase
+3329,Fabricación de otros productos metálicos,Rama
+33291,Fabricación de válvulas metálicas,Subrama
+332910,Fabricación de válvulas metálicas ,Clase
+33299,Fabricación de otros productos metálicos,Subrama
+332991,Fabricación de baleros y rodamientos ,Clase
+332999,Fabricación de otros productos metálicos ,Clase
+333,Fabricación de maquinaria y equipo,Subsector
+3331,"Fabricación de maquinaria y equipo agropecuario, para la construcción y para la industria extractiva",Rama
+33311,Fabricación de maquinaria y equipo agropecuario,Subrama
+333111,Fabricación de maquinaria y equipo agrícola ,Clase
+333112,Fabricación de maquinaria y equipo pecuario ,Clase
+33312,Fabricación de maquinaria y equipo para la construcción,Subrama
+333120,Fabricación de maquinaria y equipo para la construcción ,Clase
+33313,Fabricación de maquinaria y equipo para la industria extractiva,Subrama
+333130,Fabricación de maquinaria y equipo para la industria extractiva ,Clase
+3332,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",Rama
+33324,"Fabricación de maquinaria y equipo para las industrias manufactureras, excepto la metalmecánica",Subrama
+333241,Fabricación de maquinaria y equipo para la industria de la madera ,Clase
+333242,Fabricación de maquinaria y equipo para la industria del hule y del plástico ,Clase
+333243,Fabricación de maquinaria y equipo para la industria alimentaria y de las bebidas ,Clase
+333244,Fabricación de maquinaria y equipo para la industria textil ,Clase
+333245,Fabricación de maquinaria y equipo para la industria de la impresión ,Clase
+333246,Fabricación de maquinaria y equipo para la industria del vidrio y otros minerales no metálicos ,Clase
+333249,Fabricación de maquinaria y equipo para otras industrias manufactureras ,Clase
+3333,Fabricación de maquinaria y equipo para el comercio y los servicios,Rama
+33331,Fabricación de maquinaria y equipo para el comercio y los servicios,Subrama
+333311,Fabricación de aparatos fotográficos ,Clase
+333312,Fabricación de máquinas fotocopiadoras ,Clase
+333319,Fabricación de otra maquinaria y equipo para el comercio y los servicios ,Clase
+3334,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",Rama
+33341,"Fabricación de equipo de aire acondicionado, calefacción, y de refrigeración industrial y comercial",Subrama
+333411,Fabricación de equipo de aire acondicionado y calefacción ,Clase
+333412,Fabricación de equipo de refrigeración industrial y comercial ,Clase
+3335,Fabricación de maquinaria y equipo para la industria metalmecánica,Rama
+33351,Fabricación de maquinaria y equipo para la industria metalmecánica,Subrama
+333510,Fabricación de maquinaria y equipo para la industria metalmecánica ,Clase
+3336,"Fabricación de motores de combustión interna, turbinas y transmisiones",Rama
+33361,"Fabricación de motores de combustión interna, turbinas y transmisiones",Subrama
+333610,"Fabricación de motores de combustión interna, turbinas y transmisiones ",Clase
+3339,Fabricación de otra maquinaria y equipo para la industria en general,Rama
+33391,Fabricación de bombas y sistemas de bombeo,Subrama
+333910,Fabricación de bombas y sistemas de bombeo ,Clase
+33392,Fabricación de maquinaria y equipo para levantar y trasladar,Subrama
+333920,Fabricación de maquinaria y equipo para levantar y trasladar ,Clase
+33399,Fabricación de otra maquinaria y equipo para la industria en general,Subrama
+333991,Fabricación de equipo para soldar y soldaduras ,Clase
+333992,Fabricación de maquinaria y equipo para envasar y empacar ,Clase
+333993,Fabricación de aparatos e instrumentos para pesar ,Clase
+333999,Fabricación de otra maquinaria y equipo para la industria en general ,Clase
+334,"Fabricación de equipo de computación, comunicación, medición y de otros equipos, componentes y accesorios electrónicos",Subsector
+3341,Fabricación de computadoras y equipo periférico,Rama
+33411,Fabricación de computadoras y equipo periférico,Subrama
+334110,Fabricación de computadoras y equipo periférico ,Clase
+3342,Fabricación de equipo de comunicación,Rama
+33421,Fabricación de equipo telefónico,Subrama
+334210,Fabricación de equipo telefónico ,Clase
+33422,"Fabricación de equipo de transmisión y recepción de señales de radio y televisión, y equipo de comunicación inalámbrico",Subrama
+334220,"Fabricación de equipo de transmisión y recepción de señales de radio y televisión, y equipo de comunicación inalámbrico ",Clase
+33429,Fabricación de otros equipos de comunicación,Subrama
+334290,Fabricación de otros equipos de comunicación ,Clase
+3343,Fabricación de equipo de audio y de video,Rama
+33431,Fabricación de equipo de audio y de video,Subrama
+334310,Fabricación de equipo de audio y de video ,Clase
+3344,Fabricación de componentes electrónicos,Rama
+33441,Fabricación de componentes electrónicos,Subrama
+334410,Fabricación de componentes electrónicos ,Clase
+3345,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",Rama
+33451,"Fabricación de instrumentos de medición, control, navegación, y equipo médico electrónico",Subrama
+334511,Fabricación de relojes ,Clase
+334519,"Fabricación de otros instrumentos de medición, control, navegación, y equipo médico electrónico ",Clase
+3346,Fabricación y reproducción de medios magnéticos y ópticos,Rama
+33461,Fabricación y reproducción de medios magnéticos y ópticos,Subrama
+334610,Fabricación y reproducción de medios magnéticos y ópticos ,Clase
+335,"Fabricación de accesorios, aparatos eléctricos y equipo de generación de energía eléctrica",Subsector
+3351,Fabricación de accesorios de iluminación,Rama
+33511,Fabricación de focos,Subrama
+335110,Fabricación de focos ,Clase
+33512,Fabricación de lámparas ornamentales,Subrama
+335120,Fabricación de lámparas ornamentales ,Clase
+3352,Fabricación de aparatos eléctricos de uso doméstico,Rama
+33521,Fabricación de enseres electrodomésticos menores,Subrama
+335210,Fabricación de enseres electrodomésticos menores ,Clase
+33522,Fabricación de aparatos de línea blanca,Subrama
+335220,Fabricación de aparatos de línea blanca ,Clase
+3353,Fabricación de equipo de generación y distribución de energía eléctrica,Rama
+33531,Fabricación de equipo de generación y distribución de energía eléctrica,Subrama
+335311,Fabricación de motores y generadores eléctricos ,Clase
+335312,Fabricación de equipo y aparatos de distribución de energía eléctrica ,Clase
+3359,Fabricación de otros equipos y accesorios eléctricos,Rama
+33591,Fabricación de acumuladores y pilas,Subrama
+335910,Fabricación de acumuladores y pilas ,Clase
+33592,Fabricación de cables de conducción eléctrica,Subrama
+335920,Fabricación de cables de conducción eléctrica ,Clase
+33593,"Fabricación de enchufes, contactos, fusibles y otros accesorios para instalaciones eléctricas",Subrama
+335930,"Fabricación de enchufes, contactos, fusibles y otros accesorios para instalaciones eléctricas ",Clase
+33599,Fabricación de otros productos eléctricos,Subrama
+335991,Fabricación de productos eléctricos de carbón y grafito ,Clase
+335999,Fabricación de otros productos eléctricos ,Clase
+336,Fabricación de equipo de transporte,Subsector
+3361,Fabricación de automóviles y camiones,Rama
+33611,Fabricación de automóviles y camionetas,Subrama
+336110,Fabricación de automóviles y camionetas ,Clase
+33612,Fabricación de camiones y tractocamiones,Subrama
+336120,Fabricación de camiones y tractocamiones ,Clase
+3362,Fabricación de carrocerías y remolques,Rama
+33621,Fabricación de carrocerías y remolques,Subrama
+336210,Fabricación de carrocerías y remolques ,Clase
+3363,Fabricación de partes para vehículos automotores,Rama
+33631,Fabricación de motores y sus partes para vehículos automotrices,Subrama
+336310,Fabricación de motores y sus partes para vehículos automotrices ,Clase
+33632,Fabricación de equipo eléctrico y electrónico y sus partes para vehículos automotores,Subrama
+336320,Fabricación de equipo eléctrico y electrónico y sus partes para vehículos automotores ,Clase
+33633,Fabricación de partes de sistemas de dirección y de suspensión para vehículos automotrices,Subrama
+336330,Fabricación de partes de sistemas de dirección y de suspensión para vehículos automotrices ,Clase
+33634,Fabricación de partes de sistemas de frenos para vehículos automotrices,Subrama
+336340,Fabricación de partes de sistemas de frenos para vehículos automotrices ,Clase
+33635,Fabricación de partes de sistemas de transmisión para vehículos automotores,Subrama
+336350,Fabricación de partes de sistemas de transmisión para vehículos automotores ,Clase
+33636,Fabricación de asientos y accesorios interiores para vehículos automotores,Subrama
+336360,Fabricación de asientos y accesorios interiores para vehículos automotores ,Clase
+33637,Fabricación de piezas metálicas troqueladas para vehículos automotrices,Subrama
+336370,Fabricación de piezas metálicas troqueladas para vehículos automotrices ,Clase
+33639,Fabricación de otras partes para vehículos automotrices,Subrama
+336390,Fabricación de otras partes para vehículos automotrices ,Clase
+3364,Fabricación de equipo aeroespacial,Rama
+33641,Fabricación de equipo aeroespacial,Subrama
+336410,Fabricación de equipo aeroespacial ,Clase
+3365,Fabricación de equipo ferroviario,Rama
+33651,Fabricación de equipo ferroviario,Subrama
+336510,Fabricación de equipo ferroviario ,Clase
+3366,Fabricación de embarcaciones,Rama
+33661,Fabricación de embarcaciones,Subrama
+336610,Fabricación de embarcaciones ,Clase
+3369,Fabricación de otro equipo de transporte,Rama
+33699,Fabricación de otro equipo de transporte,Subrama
+336991,Fabricación de motocicletas ,Clase
+336992,Fabricación de bicicletas y triciclos ,Clase
+336999,Fabricación de otro equipo de transporte ,Clase
+337,"Fabricación de muebles, colchones y persianas",Subsector
+3371,"Fabricación de muebles, excepto de oficina y estantería",Rama
+33711,Fabricación de cocinas integrales y muebles modulares de baño,Subrama
+337110,Fabricación de cocinas integrales y muebles modulares de baño ,Clase
+33712,"Fabricación de muebles, excepto cocinas integrales, muebles modulares de baño y muebles de oficina y estantería",Subrama
+337120,"Fabricación de muebles, excepto cocinas integrales, muebles modulares de baño y muebles de oficina y estantería ",Clase
+3372,Fabricación de muebles de oficina y estantería,Rama
+33721,Fabricación de muebles de oficina y estantería,Subrama
+337210,Fabricación de muebles de oficina y estantería ,Clase
+3379,"Fabricación de colchones, persianas y cortineros",Rama
+33791,Fabricación de colchones,Subrama
+337910,Fabricación de colchones ,Clase
+33792,Fabricación de persianas y cortineros,Subrama
+337920,Fabricación de persianas y cortineros ,Clase
+339,Otras industrias manufactureras,Subsector
+3391,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",Rama
+33911,"Fabricación de equipo no electrónico y material desechable de uso médico, dental y para laboratorio, y artículos oftálmicos",Subrama
+339111,"Fabricación de equipo no electrónico para uso médico, dental y para laboratorio ",Clase
+339112,Fabricación de material desechable de uso médico ,Clase
+339113,Fabricación de artículos oftálmicos ,Clase
+3399,Otras industrias manufactureras,Rama
+33991,Metalistería y joyería,Subrama
+339911,Acuñación e impresión de monedas ,Clase
+339912,Orfebrería y joyería de metales y piedras preciosos ,Clase
+339913,Joyería de metales y piedras no preciosos y de otros materiales ,Clase
+339914,Metalistería de metales no preciosos ,Clase
+33992,Fabricación de artículos deportivos,Subrama
+339920,Fabricación de artículos deportivos ,Clase
+33993,Fabricación de juguetes,Subrama
+339930,Fabricación de juguetes ,Clase
+33994,"Fabricación de artículos y accesorios para escritura, pintura, dibujo y actividades de oficina",Subrama
+339940,"Fabricación de artículos y accesorios para escritura, pintura, dibujo y actividades de oficina ",Clase
+33995,Fabricación de anuncios y señalamientos,Subrama
+339950,Fabricación de anuncios y señalamientos ,Clase
+33999,Otras industrias manufactureras,Subrama
+339991,Fabricación de instrumentos musicales ,Clase
+339992,"Fabricación de cierres, botones y agujas ",Clase
+339993,"Fabricación de escobas, cepillos y similares ",Clase
+339994,Fabricación de velas y veladoras ,Clase
+339995,Fabricación de ataúdes ,Clase
+339999,Otras industrias manufactureras ,Clase
+43,Comercio al por mayor,Sector
+431,"Comercio al por mayor de abarrotes, alimentos, bebidas, hielo y tabaco ",Subsector
+4311,Comercio al por mayor de abarrotes y alimentos ,Rama
+43111,Comercio al por mayor de abarrotes ,Subrama
+431110,Comercio al por mayor de abarrotes ,Clase
+43112,Comercio al por mayor de carnes ,Subrama
+431121,Comercio al por mayor de carnes rojas ,Clase
+431122,Comercio al por mayor de carne de aves ,Clase
+431123,Comercio al por mayor de pescados y mariscos ,Clase
+43113,Comercio al por mayor de frutas y verduras frescas ,Subrama
+431130,Comercio al por mayor de frutas y verduras frescas ,Clase
+43114,Comercio al por mayor de huevo ,Subrama
+431140,Comercio al por mayor de huevo ,Clase
+43115,"Comercio al por mayor de semillas y granos alimenticios, especias y chiles secos ",Subrama
+431150,"Comercio al por mayor de semillas y granos alimenticios, especias y chiles secos ",Clase
+43116,Comercio al por mayor de leche y otros productos lácteos ,Subrama
+431160,Comercio al por mayor de leche y otros productos lácteos ,Clase
+43117,Comercio al por mayor de embutidos ,Subrama
+431170,Comercio al por mayor de embutidos ,Clase
+43118,Comercio al por mayor de dulces y materias primas para repostería ,Subrama
+431180,Comercio al por mayor de dulces y materias primas para repostería ,Clase
+43119,Comercio al por mayor de otros alimentos ,Subrama
+431191,Comercio al por mayor de pan y pasteles ,Clase
+431192,Comercio al por mayor de botanas y frituras ,Clase
+431193,Comercio al por mayor de conservas alimenticias ,Clase
+431194,Comercio al por mayor de miel ,Clase
+431199,Comercio al por mayor de otros alimentos ,Clase
+4312,"Comercio al por mayor de bebidas, hielo y tabaco ",Rama
+43121,Comercio al por mayor de bebidas y hielo ,Subrama
+431211,Comercio al por mayor de bebidas no alcohólicas y hielo ,Clase
+431212,Comercio al por mayor de vinos y licores ,Clase
+431213,Comercio al por mayor de cerveza ,Clase
+43122,"Comercio al por mayor de cigarros, puros y tabaco ",Subrama
+431220,"Comercio al por mayor de cigarros, puros y tabaco ",Clase
+432,Comercio al por mayor de productos textiles y calzado ,Subsector
+4321,Comercio al por mayor de productos textiles y calzado ,Rama
+43211,"Comercio al por mayor de productos textiles, excepto ropa ",Subrama
+432111,"Comercio al por mayor de fibras, hilos y telas ",Clase
+432112,Comercio al por mayor de blancos ,Clase
+432113,Comercio al por mayor de cueros y pieles ,Clase
+432119,Comercio al por mayor de otros productos textiles ,Clase
+43212,"Comercio al por mayor de ropa, bisutería y accesorios de vestir ",Subrama
+432120,"Comercio al por mayor de ropa, bisutería y accesorios de vestir ",Clase
+43213,Comercio al por mayor de calzado ,Subrama
+432130,Comercio al por mayor de calzado ,Clase
+433,"Comercio al por mayor de productos farmacéuticos, de perfumería, artículos para el esparcimiento, electrodomésticos menores y aparatos de línea blanca ",Subsector
+4331,Comercio al por mayor de productos farmacéuticos ,Rama
+43311,Comercio al por mayor de productos farmacéuticos ,Subrama
+433110,Comercio al por mayor de productos farmacéuticos ,Clase
+4332,"Comercio al por mayor de artículos de perfumería, cosméticos y joyería ",Rama
+43321,Comercio al por mayor de artículos de perfumería y cosméticos ,Subrama
+433210,Comercio al por mayor de artículos de perfumería y cosméticos ,Clase
+43322,Comercio al por mayor de artículos de joyería y relojes ,Subrama
+433220,Comercio al por mayor de artículos de joyería y relojes ,Clase
+4333,"Comercio al por mayor de discos, juguetes y artículos deportivos ",Rama
+43331,"Comercio al por mayor de discos, juguetes y artículos deportivos ",Subrama
+433311,Comercio al por mayor de discos y casetes ,Clase
+433312,Comercio al por mayor de juguetes y bicicletas ,Clase
+433313,Comercio al por mayor de artículos y aparatos deportivos ,Clase
+4334,"Comercio al por mayor de artículos de papelería, libros, revistas y periódicos ",Rama
+43341,Comercio al por mayor de artículos de papelería ,Subrama
+433410,Comercio al por mayor de artículos de papelería ,Clase
+43342,Comercio al por mayor de libros ,Subrama
+433420,Comercio al por mayor de libros ,Clase
+43343,Comercio al por mayor de revistas y periódicos ,Subrama
+433430,Comercio al por mayor de revistas y periódicos ,Clase
+4335,Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca ,Rama
+43351,Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca ,Subrama
+433510,Comercio al por mayor de electrodomésticos menores y aparatos de línea blanca ,Clase
+434,"Comercio al por mayor de materias primas agropecuarias y forestales, para la industria, y materiales de desecho ",Subsector
+4341,Comercio al por mayor de materias primas agropecuarias y forestales ,Rama
+43411,Comercio al por mayor de materias primas agropecuarias y forestales ,Subrama
+434111,"Comercio al por mayor de fertilizantes, plaguicidas y semillas para siembra ",Clase
+434112,"Comercio al por mayor de medicamentos veterinarios y alimentos para animales, excepto mascotas ",Clase
+4342,Comercio al por mayor de materias primas para la industria ,Rama
+43421,"Comercio al por mayor de materiales para la construcción, excepto de madera y metálicos ",Subrama
+434211,"Comercio al por mayor de cemento, tabique y grava ",Clase
+434219,"Comercio al por mayor de otros materiales para la construcción, excepto de madera y metálicos ",Clase
+43422,Comercio al por mayor de otros materiales para la construcción y materias primas para otras industrias ,Subrama
+434221,Comercio al por mayor de materiales metálicos para la construcción y la manufactura ,Clase
+434222,Comercio al por mayor de productos químicos para la industria farmacéutica y para otro uso industrial ,Clase
+434223,"Comercio al por mayor de envases en general, papel y cartón para la industria ",Clase
+434224,Comercio al por mayor de madera para la construcción y la industria ,Clase
+434225,Comercio al por mayor de equipo y material eléctrico ,Clase
+434226,Comercio al por mayor de pintura ,Clase
+434227,Comercio al por mayor de vidrios y espejos ,Clase
+434228,Comercio al por mayor de ganado y aves en pie ,Clase
+434229,Comercio al por mayor de otras materias primas para otras industrias ,Clase
+43423,Comercio al por mayor de combustibles de uso industrial ,Subrama
+434230,Comercio al por mayor de combustibles de uso industrial ,Clase
+43424,Comercio al por mayor de artículos desechables ,Subrama
+434240,Comercio al por mayor de artículos desechables ,Clase
+4343,Comercio al por mayor de materiales de desecho ,Rama
+43431,Comercio al por mayor de materiales de desecho ,Subrama
+434311,Comercio al por mayor de desechos metálicos ,Clase
+434312,Comercio al por mayor de desechos de papel y de cartón ,Clase
+434313,Comercio al por mayor de desechos de vidrio ,Clase
+434314,Comercio al por mayor de desechos de plástico ,Clase
+434319,Comercio al por mayor de otros materiales de desecho ,Clase
+435,"Comercio al por mayor de maquinaria, equipo y mobiliario para actividades agropecuarias, industriales, de servicios y comerciales, y de otra maquinaria y equipo de uso general ",Subsector
+4351,"Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca ",Rama
+43511,"Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca ",Subrama
+435110,"Comercio al por mayor de maquinaria y equipo agropecuario, forestal y para la pesca ",Clase
+4352,Comercio al por mayor de maquinaria y equipo para la industria ,Rama
+43521,Comercio al por mayor de maquinaria y equipo para la construcción y la minería ,Subrama
+435210,Comercio al por mayor de maquinaria y equipo para la construcción y la minería ,Clase
+43522,Comercio al por mayor de maquinaria y equipo para la industria manufacturera ,Subrama
+435220,Comercio al por mayor de maquinaria y equipo para la industria manufacturera ,Clase
+4353,Comercio al por mayor de maquinaria y equipo para los servicios y para actividades comerciales ,Rama
+43531,Comercio al por mayor de maquinaria y equipo para los servicios y para actividades comerciales ,Subrama
+435311,"Comercio al por mayor de equipo de telecomunicaciones, fotografía y cinematografía ",Clase
+435312,Comercio al por mayor de artículos y accesorios para diseño y pintura artística ,Clase
+435313,"Comercio al por mayor de mobiliario, equipo e instrumental médico y de laboratorio ",Clase
+435319,Comercio al por mayor de maquinaria y equipo para otros servicios y para actividades comerciales ,Clase
+4354,"Comercio al por mayor de mobiliario y equipo de cómputo y de oficina, y de otra maquinaria y equipo de uso general ",Rama
+43541,"Comercio al por mayor de mobiliario y equipo de cómputo y de oficina, y de otra maquinaria y equipo de uso general ",Subrama
+435411,"Comercio al por mayor de mobiliario, equipo, y accesorios de cómputo ",Clase
+435412,Comercio al por mayor de mobiliario y equipo de oficina ,Clase
+435419,Comercio al por mayor de otra maquinaria y equipo de uso general ,Clase
+436,"Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones ",Subsector
+4361,"Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones ",Rama
+43611,"Comercio al por mayor de camiones y de partes y refacciones nuevas para automóviles, camionetas y camiones ",Subrama
+436111,Comercio al por mayor de camiones ,Clase
+436112,"Comercio al por mayor de partes y refacciones nuevas para automóviles, camionetas y camiones ",Clase
+437,Intermediación de comercio al por mayor ,Subsector
+4371,"Intermediación de comercio al por mayor, excepto a través de internet y de otros medios electrónicos ",Rama
+43711,"Intermediación de comercio al por mayor, excepto a través de internet y de otros medios electrónicos ",Subrama
+437111,"Intermediación de comercio al por mayor de productos agropecuarios, excepto a través de internet y de otros medios electrónicos ",Clase
+437112,"Intermediación de comercio al por mayor de productos para la industria, el comercio y los servicios, excepto a través de internet y de otros medios electrónicos ",Clase
+437113,"Intermediación de comercio al por mayor para productos de uso doméstico y personal, excepto a través de internet y de otros medios electrónicos ",Clase
+4372,Intermediación de comercio al por mayor exclusivamente a través de internet y otros medios electrónicos ,Rama
+43721,Intermediación de comercio al por mayor exclusivamente a través de internet y otros medios electrónicos ,Subrama
+437210,Intermediación de comercio al por mayor exclusivamente a través de internet y otros medios electrónicos ,Clase
+46,Comercio al por menor,Sector
+461,"Comercio al por menor de abarrotes, alimentos, bebidas, hielo y tabaco ",Subsector
+4611,Comercio al por menor de abarrotes y alimentos ,Rama
+46111,"Comercio al por menor en tiendas de abarrotes, ultramarinos y misceláneas ",Subrama
+461110,"Comercio al por menor en tiendas de abarrotes, ultramarinos y misceláneas ",Clase
+46112,Comercio al por menor de carnes ,Subrama
+461121,Comercio al por menor de carnes rojas ,Clase
+461122,Comercio al por menor de carne de aves ,Clase
+461123,Comercio al por menor de pescados y mariscos ,Clase
+46113,Comercio al por menor de frutas y verduras frescas ,Subrama
+461130,Comercio al por menor de frutas y verduras frescas ,Clase
+46114,"Comercio al por menor de semillas y granos alimenticios, especias y chiles secos ",Subrama
+461140,"Comercio al por menor de semillas y granos alimenticios, especias y chiles secos ",Clase
+46115,"Comercio al por menor de leche, otros productos lácteos y embutidos ",Subrama
+461150,"Comercio al por menor de leche, otros productos lácteos y embutidos ",Clase
+46116,Comercio al por menor de dulces y materias primas para repostería ,Subrama
+461160,Comercio al por menor de dulces y materias primas para repostería ,Clase
+46117,Comercio al por menor de paletas de hielo y helados ,Subrama
+461170,Comercio al por menor de paletas de hielo y helados ,Clase
+46119,Comercio al por menor de otros alimentos ,Subrama
+461190,Comercio al por menor de otros alimentos ,Clase
+4612,"Comercio al por menor de bebidas, hielo y tabaco ",Rama
+46121,Comercio al por menor de bebidas y hielo ,Subrama
+461211,Comercio al por menor de vinos y licores ,Clase
+461212,Comercio al por menor de cerveza ,Clase
+461213,Comercio al por menor de bebidas no alcohólicas y hielo ,Clase
+46122,"Comercio al por menor de cigarros, puros y tabaco ",Subrama
+461220,"Comercio al por menor de cigarros, puros y tabaco ",Clase
+462,Comercio al por menor en tiendas de autoservicio y departamentales ,Subsector
+4621,Comercio al por menor en tiendas de autoservicio ,Rama
+46211,Comercio al por menor en tiendas de autoservicio ,Subrama
+462111,Comercio al por menor en supermercados ,Clase
+462112,Comercio al por menor en minisupers ,Clase
+4622,Comercio al por menor en tiendas departamentales ,Rama
+46221,Comercio al por menor en tiendas departamentales ,Subrama
+462210,Comercio al por menor en tiendas departamentales ,Clase
+463,"Comercio al por menor de productos textiles, bisutería, accesorios de vestir y calzado ",Subsector
+4631,"Comercio al por menor de productos textiles, excepto ropa ",Rama
+46311,"Comercio al por menor de productos textiles, excepto ropa ",Subrama
+463111,Comercio al por menor de telas ,Clase
+463112,Comercio al por menor de blancos ,Clase
+463113,Comercio al por menor de artículos de mercería y bonetería ,Clase
+4632,"Comercio al por menor de ropa, bisutería y accesorios de vestir ",Rama
+46321,"Comercio al por menor de ropa, bisutería y accesorios de vestir ",Subrama
+463211,"Comercio al por menor de ropa, excepto de bebé y lencería ",Clase
+463212,Comercio al por menor de ropa de bebé ,Clase
+463213,Comercio al por menor de lencería ,Clase
+463214,"Comercio al por menor de disfraces, vestimenta regional y vestidos de novia ",Clase
+463215,Comercio al por menor de bisutería y accesorios de vestir ,Clase
+463216,Comercio al por menor de ropa de cuero y piel y de otros artículos de estos materiales ,Clase
+463217,Comercio al por menor de pañales desechables ,Clase
+463218,Comercio al por menor de sombreros ,Clase
+4633,Comercio al por menor de calzado ,Rama
+46331,Comercio al por menor de calzado ,Subrama
+463310,Comercio al por menor de calzado ,Clase
+464,Comercio al por menor de artículos para el cuidado de la salud ,Subsector
+4641,Comercio al por menor de artículos para el cuidado de la salud ,Rama
+46411,Comercio al por menor de productos farmacéuticos y naturistas ,Subrama
+464111,Farmacias sin minisúper ,Clase
+464112,Farmacias con minisúper ,Clase
+464113,"Comercio al por menor de productos naturistas, medicamentos homeopáticos y de complementos alimenticios ",Clase
+46412,Comercio al por menor de lentes y artículos ortopédicos ,Subrama
+464121,Comercio al por menor de lentes ,Clase
+464122,Comercio al por menor de artículos ortopédicos ,Clase
+465,"Comercio al por menor de artículos de papelería, para el esparcimiento y otros artículos de uso personal ",Subsector
+4651,Comercio al por menor de artículos de perfumería y joyería ,Rama
+46511,Comercio al por menor de artículos de perfumería y joyería ,Subrama
+465111,Comercio al por menor de artículos de perfumería y cosméticos ,Clase
+465112,Comercio al por menor de artículos de joyería y relojes ,Clase
+4652,Comercio al por menor de artículos para el esparcimiento ,Rama
+46521,Comercio al por menor de artículos para el esparcimiento ,Subrama
+465211,Comercio al por menor de discos y casetes ,Clase
+465212,Comercio al por menor de juguetes ,Clase
+465213,Comercio al por menor de bicicletas y triciclos ,Clase
+465214,Comercio al por menor de equipo y material fotográfico ,Clase
+465215,Comercio al por menor de artículos y aparatos deportivos ,Clase
+465216,Comercio al por menor de instrumentos musicales ,Clase
+4653,"Comercio al por menor de artículos de papelería, libros, revistas y periódicos ",Rama
+46531,"Comercio al por menor de artículos de papelería, libros, revistas y periódicos ",Subrama
+465311,Comercio al por menor de artículos de papelería ,Clase
+465312,Comercio al por menor de libros ,Clase
+465313,Comercio al por menor de revistas y periódicos ,Clase
+4659,"Comercio al por menor de mascotas, regalos, artículos religiosos, desechables, artesanías y otros artículos de uso personal ",Rama
+46591,"Comercio al por menor de mascotas, regalos, artículos religiosos, desechables, artesanías y otros artículos de uso personal ",Subrama
+465911,Comercio al por menor de mascotas ,Clase
+465912,Comercio al por menor de regalos ,Clase
+465913,Comercio al por menor de artículos religiosos ,Clase
+465914,Comercio al por menor de artículos desechables ,Clase
+465915,Comercio al por menor en tiendas de artesanías ,Clase
+465919,Comercio al por menor de otros artículos de uso personal ,Clase
+466,"Comercio al por menor de enseres domésticos, computadoras, artículos para la decoración de interiores y artículos usados ",Subsector
+4661,Comercio al por menor de muebles para el hogar y otros enseres domésticos ,Rama
+46611,Comercio al por menor de muebles para el hogar y otros enseres domésticos ,Subrama
+466111,Comercio al por menor de muebles para el hogar ,Clase
+466112,Comercio al por menor de electrodomésticos menores y aparatos de línea blanca ,Clase
+466113,Comercio al por menor de muebles para jardín ,Clase
+466114,"Comercio al por menor de cristalería, loza y utensilios de cocina ",Clase
+4662,"Comercio al por menor de mobiliario, equipo y accesorios de cómputo, teléfonos y otros aparatos de comunicación ",Rama
+46621,"Comercio al por menor de mobiliario, equipo y accesorios de cómputo, teléfonos y otros aparatos de comunicación ",Subrama
+466211,"Comercio al por menor de mobiliario, equipo y accesorios de cómputo ",Clase
+466212,Comercio al por menor de teléfonos y otros aparatos de comunicación ,Clase
+4663,Comercio al por menor de artículos para la decoración de interiores ,Rama
+46631,Comercio al por menor de artículos para la decoración de interiores ,Subrama
+466311,"Comercio al por menor de alfombras, cortinas, tapices y similares ",Clase
+466312,Comercio al por menor de plantas y flores naturales ,Clase
+466313,Comercio al por menor de antigüedades y obras de arte ,Clase
+466314,Comercio al por menor de lámparas ornamentales y candiles ,Clase
+466319,Comercio al por menor de otros artículos para la decoración de interiores ,Clase
+4664,Comercio al por menor de artículos usados ,Rama
+46641,Comercio al por menor de artículos usados ,Subrama
+466410,Comercio al por menor de artículos usados ,Clase
+467,"Comercio al por menor de artículos de ferretería, tlapalería y vidrios ",Subsector
+4671,"Comercio al por menor de artículos de ferretería, tlapalería y vidrios ",Rama
+46711,"Comercio al por menor de artículos de ferretería, tlapalería y vidrios ",Subrama
+467111,Comercio al por menor en ferreterías y tlapalerías ,Clase
+467112,Comercio al por menor de pisos y recubrimientos cerámicos ,Clase
+467113,Comercio al por menor de pintura ,Clase
+467114,Comercio al por menor de vidrios y espejos ,Clase
+467115,Comercio al por menor de artículos para la limpieza ,Clase
+467116,Comercio al por menor de materiales para la construcción en tiendas de autoservicio especializadas ,Clase
+467117,Comercio al por menor de artículos para albercas y otros artículos ,Clase
+468,"Comercio al por menor de vehículos de motor, refacciones, combustibles y lubricantes ",Subsector
+4681,Comercio al por menor de automóviles y camionetas ,Rama
+46811,Comercio al por menor de automóviles y camionetas ,Subrama
+468111,Comercio al por menor de automóviles y camionetas nuevos ,Clase
+468112,Comercio al por menor de automóviles y camionetas usados ,Clase
+4682,"Comercio al por menor de partes y refacciones para automóviles, camionetas y camiones ",Rama
+46821,"Comercio al por menor de partes y refacciones para automóviles, camionetas y camiones ",Subrama
+468211,"Comercio al por menor de partes y refacciones nuevas para automóviles, camionetas y camiones ",Clase
+468212,"Comercio al por menor de partes y refacciones usadas para automóviles, camionetas y camiones ",Clase
+468213,"Comercio al por menor de llantas y cámaras para automóviles, camionetas y camiones ",Clase
+4683,Comercio al por menor de motocicletas y otros vehículos de motor ,Rama
+46831,Comercio al por menor de motocicletas y otros vehículos de motor ,Subrama
+468311,Comercio al por menor de motocicletas ,Clase
+468319,Comercio al por menor de otros vehículos de motor ,Clase
+4684,"Comercio al por menor de combustibles, aceites y grasas lubricantes ",Rama
+46841,Comercio al por menor de combustibles ,Subrama
+468411,Comercio al por menor de gasolina y diésel ,Clase
+468412,Comercio al por menor de gas L.P. en cilindros y para tanques estacionarios ,Clase
+468413,Comercio al por menor de gas L.P. en estaciones de carburación ,Clase
+468414,Comercio al por menor en estaciones de gas natural vehicular ,Clase
+468419,Comercio al por menor de otros combustibles ,Clase
+46842,"Comercio al por menor de aceites y grasas lubricantes, aditivos y similares para vehículos de motor ",Subrama
+468420,"Comercio al por menor de aceites y grasas lubricantes, aditivos y similares para vehículos de motor ",Clase
+469,"Comercio al por menor exclusivamente a través de internet, y catálogos impresos, televisión y similares ",Subsector
+4691,"Comercio al por menor exclusivamente a través de internet, y catálogos impresos, televisión y similares ",Rama
+46911,"Comercio al por menor exclusivamente a través de internet, y catálogos impresos, televisión y similares ",Subrama
+469110,"Comercio al por menor exclusivamente a través de internet, y catálogos impresos, televisión y similares ",Clase
+48-49,"Transportes, correos y almacenamiento",Sector
+481,Transporte aéreo,Subsector
+4811,Transporte aéreo regular,Rama
+48111,Transporte aéreo regular,Subrama
+481111,Transporte aéreo regular en líneas aéreas nacionales ,Clase
+481112,Transporte aéreo regular en líneas aéreas extranjeras ,Clase
+4812,Transporte aéreo no regular,Rama
+48121,Transporte aéreo no regular,Subrama
+481210,Transporte aéreo no regular ,Clase
+482,Transporte por ferrocarril,Subsector
+4821,Transporte por ferrocarril,Rama
+48211,Transporte por ferrocarril,Subrama
+482110,Transporte por ferrocarril ,Clase
+483,Transporte por agua,Subsector
+4831,Transporte marítimo,Rama
+48311,Transporte marítimo,Subrama
+483111,"Transporte marítimo de altura, excepto de petróleo y gas natural ",Clase
+483112,"Transporte marítimo de cabotaje, excepto de petróleo y gas natural ",Clase
+483113,Transporte marítimo de petróleo y gas natural ,Clase
+4832,Transporte por aguas interiores,Rama
+48321,Transporte por aguas interiores,Subrama
+483210,Transporte por aguas interiores ,Clase
+484,Autotransporte de carga,Subsector
+4841,Autotransporte de carga general,Rama
+48411,Autotransporte local de carga general,Subrama
+484111,Autotransporte local de productos agrícolas sin refrigeración ,Clase
+484119,Otro autotransporte local de carga general ,Clase
+48412,Autotransporte foráneo de carga general,Subrama
+484121,Autotransporte foráneo de productos agrícolas sin refrigeración ,Clase
+484129,Otro autotransporte foráneo de carga general ,Clase
+4842,Autotransporte de carga especializado,Rama
+48421,Servicios de mudanzas,Subrama
+484210,Servicios de mudanzas ,Clase
+48422,"Autotransporte local de carga especializado, excepto mudanzas",Subrama
+484221,Autotransporte local de materiales para la construcción ,Clase
+484222,Autotransporte local de materiales y residuos peligrosos ,Clase
+484223,Autotransporte local con refrigeración ,Clase
+484224,Autotransporte local de madera ,Clase
+484229,Otro autotransporte local de carga especializado ,Clase
+48423,"Autotransporte foráneo de carga especializado, excepto mudanzas",Subrama
+484231,Autotransporte foráneo de materiales para la construcción ,Clase
+484232,Autotransporte foráneo de materiales y residuos peligrosos ,Clase
+484233,Autotransporte foráneo con refrigeración ,Clase
+484234,Autotransporte foráneo de madera ,Clase
+484239,Otro autotransporte foráneo de carga especializado ,Clase
+485,"Transporte terrestre de pasajeros, excepto por ferrocarril",Subsector
+4851,Transporte colectivo urbano y suburbano de pasajeros de ruta fija,Rama
+48511,Transporte colectivo urbano y suburbano de pasajeros de ruta fija,Subrama
+485111,Transporte colectivo urbano y suburbano de pasajeros en autobuses de ruta fija ,Clase
+485113,Transporte colectivo urbano y suburbano de pasajeros en trolebuses y trenes ligeros ,Clase
+485114,Transporte colectivo urbano y suburbano de pasajeros en metro ,Clase
+485115,Transporte colectivo urbano y suburbano de pasajeros en autobuses que transitan en carril exclusivo ,Clase
+4852,Transporte colectivo foráneo de pasajeros de ruta fija,Rama
+48521,Transporte colectivo foráneo de pasajeros de ruta fija,Subrama
+485210,Transporte colectivo foráneo de pasajeros de ruta fija ,Clase
+4853,Servicio de taxis y limusinas,Rama
+48532,Alquiler de automóviles con chofer,Subrama
+485320,Alquiler de automóviles con chofer ,Clase
+4854,Transporte escolar y de personal,Rama
+48541,Transporte escolar y de personal,Subrama
+485410,Transporte escolar y de personal ,Clase
+4855,Alquiler de autobuses con chofer,Rama
+48551,Alquiler de autobuses con chofer,Subrama
+485510,Alquiler de autobuses con chofer ,Clase
+4859,Otro transporte terrestre de pasajeros,Rama
+48599,Otro transporte terrestre de pasajeros,Subrama
+485990,Otro transporte terrestre de pasajeros ,Clase
+486,Transporte por ductos,Subsector
+4861,Transporte de petróleo crudo por ductos,Rama
+48611,Transporte de petróleo crudo por ductos,Subrama
+486110,Transporte de petróleo crudo por ductos ,Clase
+4862,Transporte de gas natural por ductos,Rama
+48621,Transporte de gas natural por ductos,Subrama
+486210,Transporte de gas natural por ductos ,Clase
+4869,Transporte por ductos de otros productos,Rama
+48691,Transporte por ductos de productos refinados del petróleo,Subrama
+486910,Transporte por ductos de productos refinados del petróleo ,Clase
+48699,"Transporte por ductos de otros productos, excepto de productos refinados del petróleo",Subrama
+486990,"Transporte por ductos de otros productos, excepto de productos refinados del petróleo ",Clase
+487,Transporte turístico,Subsector
+4871,Transporte turístico por tierra,Rama
+48711,Transporte turístico por tierra,Subrama
+487110,Transporte turístico por tierra ,Clase
+4872,Transporte turístico por agua,Rama
+48721,Transporte turístico por agua,Subrama
+487210,Transporte turístico por agua ,Clase
+4879,Otro transporte turístico,Rama
+48799,Otro transporte turístico,Subrama
+487990,Otro transporte turístico ,Clase
+488,Servicios relacionados con el transporte,Subsector
+4881,Servicios relacionados con el transporte aéreo,Rama
+48811,Operaciones aeroportuarias,Subrama
+488111,Servicios a la navegación aérea ,Clase
+488112,Administración de aeropuertos y helipuertos ,Clase
+48819,Otros servicios relacionados con el transporte aéreo,Subrama
+488190,Otros servicios relacionados con el transporte aéreo ,Clase
+4882,Servicios relacionados con el transporte por ferrocarril,Rama
+48821,Servicios relacionados con el transporte por ferrocarril,Subrama
+488210,Servicios relacionados con el transporte por ferrocarril ,Clase
+4883,Servicios relacionados con el transporte por agua,Rama
+48831,Administración de puertos y muelles,Subrama
+488310,Administración de puertos y muelles ,Clase
+48832,Servicios de carga y descarga para el transporte por agua,Subrama
+488320,Servicios de carga y descarga para el transporte por agua ,Clase
+48833,Servicios para la navegación por agua,Subrama
+488330,Servicios para la navegación por agua ,Clase
+48839,Otros servicios relacionados con el transporte por agua,Subrama
+488390,Otros servicios relacionados con el transporte por agua ,Clase
+4884,Servicios relacionados con el transporte por carretera,Rama
+48841,Servicios de grúa,Subrama
+488410,Servicios de grúa ,Clase
+48849,Otros servicios relacionados con el transporte por carretera,Subrama
+488491,Servicios de administración de centrales camioneras ,Clase
+488492,"Servicios de administración de carreteras, puentes y servicios auxiliares ",Clase
+488493,Servicios de báscula para el transporte y otros servicios relacionados con el transporte por carretera ,Clase
+4885,Servicios de intermediación para el transporte de carga,Rama
+48851,Servicios de intermediación para el transporte de carga,Subrama
+488511,Servicios de agencias aduanales ,Clase
+488519,Otros servicios de intermediación para el transporte de carga ,Clase
+4889,Otros servicios relacionados con el transporte,Rama
+48899,Otros servicios relacionados con el transporte,Subrama
+488990,Otros servicios relacionados con el transporte ,Clase
+491,Servicios postales,Subsector
+4911,Servicios postales,Rama
+49111,Servicios postales,Subrama
+491110,Servicios postales ,Clase
+492,Servicios de mensajería y paquetería,Subsector
+4921,Servicios de mensajería y paquetería foránea,Rama
+49211,Servicios de mensajería y paquetería foránea,Subrama
+492110,Servicios de mensajería y paquetería foránea ,Clase
+4922,Servicios de mensajería y paquetería local,Rama
+49221,Servicios de mensajería y paquetería local,Subrama
+492210,Servicios de mensajería y paquetería local ,Clase
+493,Servicios de almacenamiento,Subsector
+4931,Servicios de almacenamiento,Rama
+49311,Almacenes generales de depósito y otros servicios de almacenamiento general sin instalaciones especializadas,Subrama
+493111,Almacenes generales de depósito ,Clase
+493119,Otros servicios de almacenamiento general sin instalaciones especializadas ,Clase
+49312,Almacenamiento con refrigeración,Subrama
+493120,Almacenamiento con refrigeración ,Clase
+49313,Almacenamiento de productos agrícolas que no requieren refrigeración,Subrama
+493130,Almacenamiento de productos agrícolas que no requieren refrigeración ,Clase
+49319,Otros servicios de almacenamiento con instalaciones especializadas,Subrama
+493190,Otros servicios de almacenamiento con instalaciones especializadas ,Clase
+51,Información en medios masivos,Sector
+511,"Edición de periódicos, revistas, libros, software y otros materiales, y edición de estas publicaciones integrada con la impresión",Subsector
+5111,"Edición de periódicos, revistas, libros y similares, y edición de estas publicaciones integrada con la impresión",Rama
+51111,Edición de periódicos y edición de estas publicaciones integrada con la impresión,Subrama
+511111,Edición de periódicos ,Clase
+511112,Edición de periódicos integrada con la impresión ,Clase
+51112,Edición de revistas y otras publicaciones periódicas y edición de estas publicaciones integrada con la impresión,Subrama
+511121,Edición de revistas y otras publicaciones periódicas ,Clase
+511122,Edición de revistas y otras publicaciones periódicas integrada con la impresión ,Clase
+51113,Edición de libros y edición de estas publicaciones integrada con la impresión,Subrama
+511131,Edición de libros ,Clase
+511132,Edición de libros integrada con la impresión ,Clase
+51114,"Edición de directorios y de listas de correo, y edición de estas publicaciones integrada con la impresión",Subrama
+511141,Edición de directorios y de listas de correo ,Clase
+511142,Edición de directorios y de listas de correo integrada con la impresión ,Clase
+51119,Edición de otros materiales y edición de estas publicaciones integrada con la impresión,Subrama
+511191,Edición de otros materiales ,Clase
+511192,Edición de otros materiales integrada con la impresión ,Clase
+5112,Edición de software y edición de software integrada con la reproducción,Rama
+51121,Edición de software y edición de software integrada con la reproducción,Subrama
+511210,Edición de software y edición de software integrada con la reproducción ,Clase
+512,"Industria fílmica y del video, e industria del sonido",Subsector
+5121,Industria fílmica y del video,Rama
+51211,"Producción de películas, programas para la televisión y otros materiales audiovisuales",Subrama
+512111,Producción de películas ,Clase
+512112,Producción de programas para la televisión ,Clase
+512113,"Producción de videoclips, comerciales y otros materiales audiovisuales ",Clase
+51212,Distribución de películas y de otros materiales audiovisuales,Subrama
+512120,Distribución de películas y de otros materiales audiovisuales ,Clase
+51213,Exhibición de películas y otros materiales audiovisuales,Subrama
+512130,Exhibición de películas y otros materiales audiovisuales ,Clase
+51219,Servicios de postproducción y otros servicios para la industria fílmica y del video,Subrama
+512190,Servicios de postproducción y otros servicios para la industria fílmica y del video ,Clase
+5122,Industria del sonido,Rama
+51223,Editoras de música,Subrama
+512230,Editoras de música ,Clase
+51224,Grabación de discos compactos (CD) y de video digital (DVD) o casetes musicales,Subrama
+512240,Grabación de discos compactos (CD) y de video digital (DVD) o casetes musicales ,Clase
+51225,Productoras y distribuidoras discográficas,Subrama
+512250,Productoras y distribuidoras discográficas ,Clase
+51229,Otros servicios de grabación del sonido,Subrama
+512290,Otros servicios de grabación del sonido ,Clase
+515,Radio y televisión,Subsector
+5151,Transmisión de programas de radio y televisión,Rama
+51511,Transmisión de programas de radio,Subrama
+515110,Transmisión de programas de radio ,Clase
+51512,Transmisión de programas de televisión,Subrama
+515120,Transmisión de programas de televisión ,Clase
+5152,Producción de programación de canales para sistemas de televisión por cable o satelitales,Rama
+51521,Producción de programación de canales para sistemas de televisión por cable o satelitales,Subrama
+515210,Producción de programación de canales para sistemas de televisión por cable o satelitales ,Clase
+517,Telecomunicaciones,Subsector
+5173,Operadores de servicios de telecomunicaciones alámbricas e inalámbricas,Rama
+51731,Operadores de servicios de telecomunicaciones alámbricas e inalámbricas,Subrama
+517311,Operadores de servicios de telecomunicaciones alámbricas ,Clase
+517312,Operadores de servicios de telecomunicaciones inalámbricas ,Clase
+5174,Operadores de servicios de telecomunicaciones vía satélite,Rama
+51741,Operadores de servicios de telecomunicaciones vía satélite,Subrama
+517410,Operadores de servicios de telecomunicaciones vía satélite ,Clase
+5179,Otros servicios de telecomunicaciones,Rama
+51791,Otros servicios de telecomunicaciones,Subrama
+517910,Otros servicios de telecomunicaciones ,Clase
+518,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",Subsector
+5182,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",Rama
+51821,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados",Subrama
+518210,"Procesamiento electrónico de información, hospedaje y otros servicios relacionados ",Clase
+519,Otros servicios de información,Subsector
+5191,Otros servicios de información,Rama
+51911,Agencias noticiosas,Subrama
+519110,Agencias noticiosas ,Clase
+51912,Bibliotecas y archivos,Subrama
+519121,Bibliotecas y archivos del sector privado ,Clase
+51913,Edición y difusión de contenido exclusivamente a través de internet y servicios de búsqueda en la red,Subrama
+519130,Edición y difusión de contenido exclusivamente a través de internet y servicios de búsqueda en la red ,Clase
+51919,Otros servicios de suministro de información,Subrama
+519190,Otros servicios de suministro de información ,Clase
+52,Servicios financieros y de seguros,Sector
+521,Banca central,Subsector
+5211,Banca central,Rama
+52111,Banca central,Subrama
+521110,Banca central ,Clase
+522,Instituciones de intermediación crediticia y financiera no bursátil,Subsector
+5221,Banca múltiple ,Rama
+52211,Banca múltiple ,Subrama
+522110,Banca múltiple ,Clase
+5222,Instituciones financieras de fomento económico ,Rama
+52221,Banca de desarrollo ,Subrama
+522210,Banca de desarrollo ,Clase
+52222,Fondos y fideicomisos financieros ,Subrama
+522220,Fondos y fideicomisos financieros ,Clase
+5223,Uniones de crédito e instituciones de ahorro ,Rama
+52231,Uniones de crédito ,Subrama
+522310,Uniones de crédito ,Clase
+52232,Cajas de ahorro popular ,Subrama
+522320,Cajas de ahorro popular ,Clase
+52239,Otras instituciones de ahorro y préstamo ,Subrama
+522390,Otras instituciones de ahorro y préstamo ,Clase
+5224,Otras instituciones de intermediación crediticia y financiera no bursátil ,Rama
+52244,Compañías de autofinanciamiento ,Subrama
+522440,Compañías de autofinanciamiento ,Clase
+52245,Montepíos y casas de empeño ,Subrama
+522451,Montepíos ,Clase
+522452,Casas de empeño ,Clase
+52246,Sociedades financieras de objeto múltiple ,Subrama
+522460,Sociedades financieras de objeto múltiple ,Clase
+52249,Otras instituciones de intermediación crediticia y financiera no bursátil ,Subrama
+522490,Otras instituciones de intermediación crediticia y financiera no bursátil ,Clase
+5225,Servicios relacionados con la intermediación crediticia no bursátil ,Rama
+52251,Servicios relacionados con la intermediación crediticia no bursátil ,Subrama
+522510,Servicios relacionados con la intermediación crediticia no bursátil ,Clase
+523,"Actividades bursátiles, cambiarias y de inversión financiera",Subsector
+5231,"Casas de bolsa, casas de cambio y centros cambiarios",Rama
+52311,Casas de bolsa ,Subrama
+523110,Casas de bolsa ,Clase
+52312,Casas de cambio y centros cambiarios ,Subrama
+523121,Casas de cambio ,Clase
+523122,Centros cambiarios ,Clase
+5232,Bolsa de valores,Rama
+52321,Bolsa de valores,Subrama
+523210,Bolsa de valores ,Clase
+5239,Asesoría en inversiones y otros servicios relacionados con la intermediación bursátil,Rama
+52391,Asesoría en inversiones ,Subrama
+523910,Asesoría en inversiones ,Clase
+52399,Otros servicios relacionados con la intermediación bursátil ,Subrama
+523990,Otros servicios relacionados con la intermediación bursátil ,Clase
+524,"Compañías de seguros, fianzas, y administración de fondos para el retiro",Subsector
+5241,Compañías de seguros y fianzas,Rama
+52411,Compañías de seguros ,Subrama
+524110,Compañías de seguros ,Clase
+52412,Fondos de aseguramiento campesino ,Subrama
+524120,Fondos de aseguramiento campesino ,Clase
+52413,Compañías afianzadoras ,Subrama
+524130,Compañías afianzadoras ,Clase
+5242,"Servicios relacionados con los seguros y las fianzas, y administración de fondos para el retiro",Rama
+52421,"Agentes, ajustadores y gestores de seguros y fianzas ",Subrama
+524210,"Agentes, ajustadores y gestores de seguros y fianzas ",Clase
+52422,Administración de fondos para el retiro ,Subrama
+524220,Administración de fondos para el retiro ,Clase
+53,Servicios inmobiliarios y de alquiler de bienes muebles e intangibles,Sector
+531,Servicios inmobiliarios,Subsector
+5311,Alquiler sin intermediación de bienes raíces,Rama
+53111,Alquiler sin intermediación de bienes raíces ,Subrama
+531111,Alquiler sin intermediación de viviendas amuebladas ,Clase
+531112,Alquiler sin intermediación de viviendas no amuebladas ,Clase
+531113,Alquiler sin intermediación de salones para fiestas y convenciones ,Clase
+531114,Alquiler sin intermediación de oficinas y locales comerciales ,Clase
+531115,"Alquiler sin intermediación de teatros, estadios, auditorios y similares ",Clase
+531116,Alquiler sin intermediación de edificios industriales dentro de un parque industrial ,Clase
+531119,Alquiler sin intermediación de otros bienes raíces ,Clase
+5312,Inmobiliarias y corredores de bienes raíces,Rama
+53121,Inmobiliarias y corredores de bienes raíces,Subrama
+531210,Inmobiliarias y corredores de bienes raíces ,Clase
+5313,Servicios relacionados con los servicios inmobiliarios,Rama
+53131,Servicios relacionados con los servicios inmobiliarios ,Subrama
+531311,Servicios de administración de bienes raíces ,Clase
+531319,Otros servicios relacionados con los servicios inmobiliarios ,Clase
+532,Servicios de alquiler de bienes muebles,Subsector
+5321,"Alquiler de automóviles, camiones y otros transportes terrestres",Rama
+53211,Alquiler de automóviles sin chofer,Subrama
+532110,Alquiler de automóviles sin chofer ,Clase
+53212,"Alquiler de camiones de carga, autobuses, minibuses y remolques sin chofer",Subrama
+532121,Alquiler de camiones de carga sin chofer ,Clase
+532122,"Alquiler de autobuses, minibuses y remolques sin chofer ",Clase
+5322,Alquiler de artículos para el hogar y personales,Rama
+53221,Alquiler de aparatos eléctricos y electrónicos para el hogar y personales,Subrama
+532210,Alquiler de aparatos eléctricos y electrónicos para el hogar y personales ,Clase
+53228,Alquiler de otros artículos para el hogar y personales,Subrama
+532281,Alquiler de prendas de vestir ,Clase
+532282,"Alquiler de mesas, sillas, vajillas y similares ",Clase
+532289,Alquiler de otros artículos para el hogar y personales ,Clase
+5323,Centros generales de alquiler,Rama
+53231,Centros generales de alquiler,Subrama
+532310,Centros generales de alquiler ,Clase
+5324,"Alquiler de maquinaria y equipo agropecuario, pesquero, industrial, comercial y de servicios",Rama
+53241,"Alquiler de maquinaria y equipo para construcción, minería, actividades forestales y transporte, excepto terrestre",Subrama
+532411,"Alquiler de maquinaria y equipo para construcción, minería y actividades forestales ",Clase
+532412,"Alquiler de equipo de transporte, excepto terrestre ",Clase
+53242,Alquiler de equipo de cómputo y de otras máquinas y mobiliario de oficina,Subrama
+532420,Alquiler de equipo de cómputo y de otras máquinas y mobiliario de oficina ,Clase
+53249,"Alquiler de otra maquinaria y equipo agropecuario, pesquero, para la industria manufacturera, comercial y de servicios",Subrama
+532491,"Alquiler de maquinaria y equipo agropecuario, pesquero y para la industria manufacturera ",Clase
+532492,"Alquiler de maquinaria y equipo para mover, levantar y acomodar materiales ",Clase
+532493,Alquiler de maquinaria y equipo comercial y de servicios ,Clase
+533,"Servicios de alquiler de marcas registradas, patentes y franquicias",Subsector
+5331,"Servicios de alquiler de marcas registradas, patentes y franquicias",Rama
+53311,"Servicios de alquiler de marcas registradas, patentes y franquicias",Subrama
+533110,"Servicios de alquiler de marcas registradas, patentes y franquicias ",Clase
+54,"Servicios profesionales, científicos y técnicos",Sector
+541,"Servicios profesionales, científicos y técnicos",Subsector
+5411,Servicios legales,Rama
+54111,Bufetes jurídicos,Subrama
+541110,Bufetes jurídicos ,Clase
+54112,Notarías públicas,Subrama
+541120,Notarías públicas ,Clase
+54119,Servicios de apoyo para efectuar trámites legales,Subrama
+541190,Servicios de apoyo para efectuar trámites legales ,Clase
+5412,"Servicios de contabilidad, auditoría y servicios relacionados",Rama
+54121,"Servicios de contabilidad, auditoría y servicios relacionados",Subrama
+541211,Servicios de contabilidad y auditoría ,Clase
+541219,Otros servicios relacionados con la contabilidad ,Clase
+5413,"Servicios de arquitectura, ingeniería y actividades relacionadas",Rama
+54131,Servicios de arquitectura,Subrama
+541310,Servicios de arquitectura ,Clase
+54132,Servicios de arquitectura de paisaje y urbanismo,Subrama
+541320,Servicios de arquitectura de paisaje y urbanismo ,Clase
+54133,Servicios de ingeniería,Subrama
+541330,Servicios de ingeniería ,Clase
+54134,Servicios de dibujo,Subrama
+541340,Servicios de dibujo ,Clase
+54135,Servicios de inspección de edificios,Subrama
+541350,Servicios de inspección de edificios ,Clase
+54136,Servicios de levantamiento geofísico,Subrama
+541360,Servicios de levantamiento geofísico ,Clase
+54137,Servicios de elaboración de mapas,Subrama
+541370,Servicios de elaboración de mapas ,Clase
+54138,Laboratorios de pruebas,Subrama
+541380,Laboratorios de pruebas ,Clase
+5414,Diseño especializado,Rama
+54141,Diseño y decoración de interiores,Subrama
+541410,Diseño y decoración de interiores ,Clase
+54142,Diseño industrial,Subrama
+541420,Diseño industrial ,Clase
+54143,Diseño gráfico,Subrama
+541430,Diseño gráfico ,Clase
+54149,Diseño de modas y otros diseños especializados,Subrama
+541490,Diseño de modas y otros diseños especializados ,Clase
+5415,Servicios de diseño de sistemas de cómputo y servicios relacionados,Rama
+54151,Servicios de diseño de sistemas de cómputo y servicios relacionados,Subrama
+541510,Servicios de diseño de sistemas de cómputo y servicios relacionados ,Clase
+5416,"Servicios de consultoría administrativa, científica y técnica",Rama
+54161,Servicios de consultoría en administración,Subrama
+541610,Servicios de consultoría en administración ,Clase
+54162,Servicios de consultoría en medio ambiente,Subrama
+541620,Servicios de consultoría en medio ambiente ,Clase
+54169,Otros servicios de consultoría científica y técnica,Subrama
+541690,Otros servicios de consultoría científica y técnica ,Clase
+5417,Servicios de investigación científica y desarrollo,Rama
+54171,"Servicios de investigación científica y desarrollo en ciencias naturales y exactas, ingeniería, y ciencias de la vida",Subrama
+541711,"Servicios de investigación científica y desarrollo en ciencias naturales y exactas, ingeniería, y ciencias de la vida, prestados por el sector privado ",Clase
+54172,Servicios de investigación científica y desarrollo en ciencias sociales y humanidades,Subrama
+541721,"Servicios de investigación científica y desarrollo en ciencias sociales y humanidades, prestados por el sector privado ",Clase
+5418,Servicios de publicidad y actividades relacionadas,Rama
+54181,Agencias de publicidad,Subrama
+541810,Agencias de publicidad ,Clase
+54182,Agencias de relaciones públicas,Subrama
+541820,Agencias de relaciones públicas ,Clase
+54183,Agencias de compra de medios a petición del cliente,Subrama
+541830,Agencias de compra de medios a petición del cliente ,Clase
+54184,Agencias de representación de medios,Subrama
+541840,Agencias de representación de medios ,Clase
+54185,Agencias de anuncios publicitarios,Subrama
+541850,Agencias de anuncios publicitarios ,Clase
+54186,Agencias de correo directo,Subrama
+541860,Agencias de correo directo ,Clase
+54187,Distribución de material publicitario,Subrama
+541870,Distribución de material publicitario ,Clase
+54189,Servicios de rotulación y otros servicios de publicidad,Subrama
+541890,Servicios de rotulación y otros servicios de publicidad ,Clase
+5419,"Otros servicios profesionales, científicos y técnicos",Rama
+54191,Servicios de investigación de mercados y encuestas de opinión pública,Subrama
+541910,Servicios de investigación de mercados y encuestas de opinión pública ,Clase
+54192,Servicios de fotografía y videograbación,Subrama
+541920,Servicios de fotografía y videograbación ,Clase
+54193,Servicios de traducción e interpretación,Subrama
+541930,Servicios de traducción e interpretación ,Clase
+54194,Servicios veterinarios,Subrama
+541941,Servicios veterinarios para mascotas prestados por el sector privado ,Clase
+541943,Servicios veterinarios para la ganadería prestados por el sector privado ,Clase
+54199,"Otros servicios profesionales, científicos y técnicos",Subrama
+541990,"Otros servicios profesionales, científicos y técnicos ",Clase
+55,Corporativos,Sector
+551,Corporativos,Subsector
+5511,Corporativos,Rama
+55111,Corporativos,Subrama
+551111,Corporativos ,Clase
+551112,Tenedoras de acciones ,Clase
+56,"Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",Sector
+561,Servicios de apoyo a los negocios,Subsector
+5611,Servicios de administración de negocios,Rama
+56111,Servicios de administración de negocios,Subrama
+561110,Servicios de administración de negocios ,Clase
+5612,Servicios combinados de apoyo en instalaciones,Rama
+56121,Servicios combinados de apoyo en instalaciones,Subrama
+561210,Servicios combinados de apoyo en instalaciones ,Clase
+5613,Servicios de empleo,Rama
+56131,Agencias de colocación,Subrama
+561310,Agencias de colocación ,Clase
+56132,Agencias de empleo temporal,Subrama
+561320,Agencias de empleo temporal ,Clase
+56133,Suministro de personal permanente,Subrama
+561330,Suministro de personal permanente ,Clase
+5614,"Servicios de apoyo secretarial, fotocopiado, cobranza, investigación crediticia y similares",Rama
+56141,Servicios de preparación de documentos,Subrama
+561410,Servicios de preparación de documentos ,Clase
+56142,"Servicios de casetas telefónicas, recepción de llamadas y promoción por teléfono",Subrama
+561421,Servicios de casetas telefónicas ,Clase
+561422,Servicios de recepción de llamadas telefónicas y promoción por teléfono ,Clase
+56143,"Servicios de fotocopiado, fax, acceso a computadoras y afines",Subrama
+561431,"Servicios de fotocopiado, fax y afines ",Clase
+561432,Servicios de acceso a computadoras ,Clase
+56144,Agencias de cobranza,Subrama
+561440,Agencias de cobranza ,Clase
+56145,Despachos de investigación de solvencia financiera,Subrama
+561450,Despachos de investigación de solvencia financiera ,Clase
+56149,Otros servicios de apoyo secretarial y similares,Subrama
+561490,Otros servicios de apoyo secretarial y similares ,Clase
+5615,Agencias de viajes y servicios de reservaciones,Rama
+56151,Agencias de viajes,Subrama
+561510,Agencias de viajes ,Clase
+56152,Organización de excursiones y paquetes turísticos para agencias de viajes (Operadores de tours),Subrama
+561520,Organización de excursiones y paquetes turísticos para agencias de viajes (Operadores de tours) ,Clase
+56159,Otros servicios de reservaciones,Subrama
+561590,Otros servicios de reservaciones ,Clase
+5616,"Servicios de investigación, protección y seguridad",Rama
+56161,"Servicios de investigación y de protección y custodia, excepto mediante monitoreo",Subrama
+561610,"Servicios de investigación y de protección y custodia, excepto mediante monitoreo ",Clase
+56162,Servicios de protección y custodia mediante el monitoreo de sistemas de seguridad,Subrama
+561620,Servicios de protección y custodia mediante el monitoreo de sistemas de seguridad ,Clase
+5617,Servicios de limpieza,Rama
+56171,Servicios de control y exterminación de plagas,Subrama
+561710,Servicios de control y exterminación de plagas ,Clase
+56172,Servicios de limpieza de inmuebles,Subrama
+561720,Servicios de limpieza de inmuebles ,Clase
+56173,Servicios de instalación y mantenimiento de áreas verdes,Subrama
+561730,Servicios de instalación y mantenimiento de áreas verdes ,Clase
+56174,"Servicios de limpieza de tapicería, alfombras y muebles",Subrama
+561740,"Servicios de limpieza de tapicería, alfombras y muebles ",Clase
+56179,Otros servicios de limpieza,Subrama
+561790,Otros servicios de limpieza ,Clase
+5619,Otros servicios de apoyo a los negocios,Rama
+56191,Servicios de empacado y etiquetado,Subrama
+561910,Servicios de empacado y etiquetado ,Clase
+56192,Organizadores de convenciones y ferias comerciales e industriales,Subrama
+561920,Organizadores de convenciones y ferias comerciales e industriales ,Clase
+56199,Otros servicios de apoyo a los negocios,Subrama
+561990,Otros servicios de apoyo a los negocios ,Clase
+562,Manejo de residuos y servicios de remediación,Subsector
+5621,Recolección de residuos ,Rama
+56211,Recolección de residuos peligrosos ,Subrama
+562111,Recolección de residuos peligrosos por el sector privado ,Clase
+56212,Recolección de residuos no peligrosos ,Subrama
+562121,Recolección de residuos no peligrosos por el sector privado ,Clase
+5622,Tratamiento y disposición final de residuos ,Rama
+56221,Tratamiento y disposición final de residuos peligrosos ,Subrama
+562211,Tratamiento y disposición final de residuos peligrosos por el sector privado ,Clase
+56222,Tratamiento y disposición final de residuos no peligrosos ,Subrama
+562221,Tratamiento y disposición final de residuos no peligrosos por el sector privado ,Clase
+5629,"Servicios de remediación, recuperación, y otros servicios de manejo de residuos ",Rama
+56291,Servicios de remediación ,Subrama
+562911,Servicios de remediación de residuos por el sector privado ,Clase
+56292,Recuperación de residuos ,Subrama
+562921,Recuperación de residuos por el sector privado ,Clase
+56299,Otros servicios de manejo de residuos ,Subrama
+562998,Otros servicios de manejo de residuos por el sector privado ,Clase
+61,Servicios educativos,Sector
+611,Servicios educativos,Subsector
+6111,"Escuelas de educación básica, media y para necesidades especiales",Rama
+61111,Escuelas de educación preescolar ,Subrama
+611111,Escuelas de educación preescolar del sector privado ,Clase
+61112,Escuelas de educación primaria ,Subrama
+611121,Escuelas de educación primaria del sector privado ,Clase
+61113,Escuelas de educación secundaria general ,Subrama
+611131,Escuelas de educación secundaria general del sector privado ,Clase
+61114,Escuelas de educación secundaria técnica ,Subrama
+611141,Escuelas de educación secundaria técnica del sector privado ,Clase
+61115,Escuelas de educación media técnica terminal ,Subrama
+611151,Escuelas de educación media técnica terminal del sector privado ,Clase
+61116,Escuelas de educación media superior ,Subrama
+611161,Escuelas de educación media superior del sector privado ,Clase
+61117,Escuelas que combinan diversos niveles de educación ,Subrama
+611171,Escuelas del sector privado que combinan diversos niveles de educación ,Clase
+61118,Escuelas de educación para necesidades especiales ,Subrama
+611181,Escuelas del sector privado de educación para necesidades especiales ,Clase
+6112,Escuelas de educación técnica superior,Rama
+61121,Escuelas de educación técnica superior,Subrama
+611211,Escuelas de educación técnica superior del sector privado ,Clase
+6113,Escuelas de educación superior,Rama
+61131,Escuelas de educación superior,Subrama
+611311,Escuelas de educación superior del sector privado ,Clase
+6114,"Escuelas comerciales, de computación y de capacitación para ejecutivos",Rama
+61141,Escuelas comerciales y secretariales,Subrama
+611411,Escuelas comerciales y secretariales del sector privado ,Clase
+61142,Escuelas de computación,Subrama
+611421,Escuelas de computación del sector privado ,Clase
+61143,Escuelas para la capacitación de ejecutivos,Subrama
+611431,Escuelas para la capacitación de ejecutivos del sector privado ,Clase
+6115,Escuelas de oficios,Rama
+61151,Escuelas de oficios,Subrama
+611511,Escuelas del sector privado dedicadas a la enseñanza de oficios ,Clase
+6116,Otros servicios educativos,Rama
+61161,Escuelas de arte,Subrama
+611611,Escuelas de arte del sector privado ,Clase
+61162,Escuelas de deporte,Subrama
+611621,Escuelas de deporte del sector privado ,Clase
+61163,Escuelas de idiomas,Subrama
+611631,Escuelas de idiomas del sector privado ,Clase
+61169,Otros servicios educativos,Subrama
+611691,Servicios de profesores particulares ,Clase
+611698,Otros servicios educativos proporcionados por el sector privado ,Clase
+6117,Servicios de apoyo a la educación,Rama
+61171,Servicios de apoyo a la educación,Subrama
+611710,Servicios de apoyo a la educación ,Clase
+62,Servicios de salud y de asistencia social,Sector
+621,Servicios médicos de consulta externa y servicios relacionados,Subsector
+6211,Consultorios médicos,Rama
+62111,Consultorios médicos,Subrama
+621111,Consultorios de medicina general del sector privado ,Clase
+621113,Consultorios de medicina especializada del sector privado ,Clase
+621115,Clínicas de consultorios médicos del sector privado ,Clase
+6212,Consultorios dentales,Rama
+62121,Consultorios dentales,Subrama
+621211,Consultorios dentales del sector privado ,Clase
+6213,Otros consultorios para el cuidado de la salud,Rama
+62131,Consultorios de quiropráctica,Subrama
+621311,Consultorios de quiropráctica del sector privado ,Clase
+62132,Consultorios de optometría,Subrama
+621320,Consultorios de optometría ,Clase
+62133,Consultorios de psicología,Subrama
+621331,Consultorios de psicología del sector privado ,Clase
+62134,"Consultorios de audiología y de terapia ocupacional, física y del lenguaje",Subrama
+621341,"Consultorios del sector privado de audiología y de terapia ocupacional, física y del lenguaje ",Clase
+62139,Otros consultorios para el cuidado de la salud,Subrama
+621391,Consultorios de nutriólogos y dietistas del sector privado ,Clase
+621398,Otros consultorios del sector privado para el cuidado de la salud ,Clase
+6214,Centros para la atención de pacientes que no requieren hospitalización,Rama
+62141,Centros de planificación familiar,Subrama
+621411,Centros de planificación familiar del sector privado ,Clase
+62142,Centros de atención médica externa para enfermos mentales y adictos,Subrama
+621421,Centros del sector privado de atención médica externa para enfermos mentales y adictos ,Clase
+62149,Otros centros para la atención de pacientes que no requieren hospitalización,Subrama
+621491,Otros centros del sector privado para la atención de pacientes que no requieren hospitalización ,Clase
+6215,Laboratorios médicos y de diagnóstico,Rama
+62151,Laboratorios médicos y de diagnóstico,Subrama
+621511,Laboratorios médicos y de diagnóstico del sector privado ,Clase
+6216,Servicios de enfermería a domicilio,Rama
+62161,Servicios de enfermería a domicilio,Subrama
+621610,Servicios de enfermería a domicilio ,Clase
+6219,"Servicios de ambulancias, de bancos de órganos y otros servicios auxiliares al tratamiento médico",Rama
+62191,Servicios de ambulancias,Subrama
+621910,Servicios de ambulancias ,Clase
+62199,"Servicios de bancos de órganos, bancos de sangre y otros servicios auxiliares al tratamiento médico",Subrama
+621991,"Servicios de bancos de órganos, bancos de sangre y otros servicios auxiliares al tratamiento médico prestados por el sector privado ",Clase
+622,Hospitales,Subsector
+6221,Hospitales generales,Rama
+62211,Hospitales generales,Subrama
+622111,Hospitales generales del sector privado ,Clase
+6222,Hospitales psiquiátricos y para el tratamiento por adicción,Rama
+62221,Hospitales psiquiátricos y para el tratamiento por adicción,Subrama
+622211,Hospitales psiquiátricos y para el tratamiento por adicción del sector privado ,Clase
+6223,Hospitales de otras especialidades médicas,Rama
+62231,Hospitales de otras especialidades médicas,Subrama
+622311,Hospitales del sector privado de otras especialidades médicas ,Clase
+623,Residencias de asistencia social y para el cuidado de la salud,Subsector
+6231,"Residencias con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales",Rama
+62311,"Residencias con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales",Subrama
+623111,"Residencias del sector privado con cuidados de enfermeras para enfermos convalecientes, en rehabilitación, incurables y terminales ",Clase
+6232,"Residencias para el cuidado de personas con problemas de retardo mental, trastorno mental y adicciones",Rama
+62321,Residencias para el cuidado de personas con problemas de retardo mental,Subrama
+623211,Residencias del sector privado para el cuidado de personas con problemas de retardo mental ,Clase
+62322,Residencias para el cuidado de personas con problemas de trastorno mental y adicción,Subrama
+623221,Residencias del sector privado para el cuidado de personas con problemas de trastorno mental y adicción ,Clase
+6233,Asilos y otras residencias para el cuidado de ancianos,Rama
+62331,Asilos y otras residencias para el cuidado de ancianos,Subrama
+623311,Asilos y otras residencias del sector privado para el cuidado de ancianos ,Clase
+6239,Orfanatos y otras residencias de asistencia social,Rama
+62399,Orfanatos y otras residencias de asistencia social,Subrama
+623991,Orfanatos y otras residencias de asistencia social del sector privado ,Clase
+624,Otros servicios de asistencia social,Subsector
+6241,Servicios de orientación y trabajo social,Rama
+62411,Servicios de orientación y trabajo social para la niñez y la juventud,Subrama
+624111,Servicios de orientación y trabajo social para la niñez y la juventud prestados por el sector privado ,Clase
+62412,Centros de atención y cuidado diurno de ancianos y personas con discapacidad,Subrama
+624121,Centros del sector privado dedicados a la atención y cuidado diurno de ancianos y personas con discapacidad ,Clase
+62419,Otros servicios de orientación y trabajo social,Subrama
+624191,Agrupaciones de autoayuda para alcohólicos y personas con otras adicciones ,Clase
+624198,Otros servicios de orientación y trabajo social prestados por el sector privado ,Clase
+6242,"Servicios comunitarios de alimentación, refugio y emergencia",Rama
+62421,Servicios de alimentación comunitarios,Subrama
+624211,Servicios de alimentación comunitarios prestados por el sector privado ,Clase
+62422,Refugios temporales comunitarios,Subrama
+624221,Refugios temporales comunitarios del sector privado ,Clase
+62423,Servicios de emergencia comunitarios,Subrama
+624231,Servicios de emergencia comunitarios prestados por el sector privado ,Clase
+6243,"Servicios de capacitación para el trabajo para personas desempleadas, subempleadas o con discapacidad",Rama
+62431,"Servicios de capacitación para el trabajo para personas desempleadas, subempleadas o con discapacidad",Subrama
+624311,"Servicios de capacitación para el trabajo prestados por el sector privado para personas desempleadas, subempleadas o con discapacidad ",Clase
+6244,Guarderías,Rama
+62441,Guarderías,Subrama
+624411,Guarderías del sector privado ,Clase
+71,"Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",Sector
+711,"Servicios artísticos, culturales y deportivos, y otros servicios relacionados",Subsector
+7111,Compañías y grupos de espectáculos artísticos y culturales,Rama
+71111,Compañías de teatro,Subrama
+711111,Compañías de teatro del sector privado ,Clase
+71112,Compañías de danza,Subrama
+711121,Compañías de danza del sector privado ,Clase
+71113,Cantantes y grupos musicales,Subrama
+711131,Cantantes y grupos musicales del sector privado ,Clase
+71119,Otras compañías y grupos de espectáculos artísticos,Subrama
+711191,Otras compañías y grupos de espectáculos artísticos del sector privado ,Clase
+7112,Deportistas y equipos deportivos profesionales,Rama
+71121,Deportistas y equipos deportivos profesionales,Subrama
+711211,Deportistas profesionales ,Clase
+711212,Equipos deportivos profesionales ,Clase
+7113,"Promotores de espectáculos artísticos, culturales, deportivos y similares",Rama
+71131,"Promotores de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos",Subrama
+711311,"Promotores del sector privado de espectáculos artísticos, culturales, deportivos y similares que cuentan con instalaciones para presentarlos ",Clase
+71132,"Promotores de espectáculos artísticos, culturales, deportivos y similares que no cuentan con instalaciones para presentarlos",Subrama
+711320,"Promotores de espectáculos artísticos, culturales, deportivos y similares que no cuentan con instalaciones para presentarlos ",Clase
+7114,"Agentes y representantes de artistas, deportistas y similares",Rama
+71141,"Agentes y representantes de artistas, deportistas y similares",Subrama
+711410,"Agentes y representantes de artistas, deportistas y similares ",Clase
+7115,"Artistas, escritores y técnicos independientes",Rama
+71151,"Artistas, escritores y técnicos independientes",Subrama
+711510,"Artistas, escritores y técnicos independientes ",Clase
+712,"Museos, sitios históricos, zoológicos y similares",Subsector
+7121,"Museos, sitios históricos, zoológicos y similares",Rama
+71211,Museos,Subrama
+712111,Museos del sector privado ,Clase
+71212,Sitios históricos,Subrama
+712120,Sitios históricos ,Clase
+71213,Jardines botánicos y zoológicos,Subrama
+712131,Jardines botánicos y zoológicos del sector privado ,Clase
+71219,"Grutas, parques naturales y otros sitios del patrimonio cultural de la nación",Subrama
+712190,"Grutas, parques naturales y otros sitios del patrimonio cultural de la nación ",Clase
+713,Servicios de entretenimiento en instalaciones recreativas y otros servicios recreativos,Subsector
+7131,Parques con instalaciones recreativas y casas de juegos electrónicos,Rama
+71311,Parques con instalaciones recreativas,Subrama
+713111,Parques de diversiones y temáticos del sector privado ,Clase
+713113,Parques acuáticos y balnearios del sector privado ,Clase
+71312,Casas de juegos electrónicos,Subrama
+713120,Casas de juegos electrónicos ,Clase
+7132,"Casinos, loterías y otros juegos de azar",Rama
+71329,Loterías y otros juegos de azar,Subrama
+713291,"Venta de billetes de lotería, pronósticos deportivos y otros boletos de sorteo ",Clase
+713299,Otros juegos de azar ,Clase
+7139,Otros servicios recreativos,Rama
+71391,Campos de golf,Subrama
+713910,Campos de golf ,Clase
+71393,Marinas turísticas,Subrama
+713930,Marinas turísticas ,Clase
+71394,Clubes deportivos y centros de acondicionamiento físico,Subrama
+713941,Clubes deportivos del sector privado ,Clase
+713943,Centros de acondicionamiento físico del sector privado ,Clase
+71395,Boliches,Subrama
+713950,Boliches ,Clase
+71399,Otros servicios recreativos,Subrama
+713991,Billares ,Clase
+713992,Clubes o ligas de aficionados ,Clase
+713998,Otros servicios recreativos prestados por el sector privado ,Clase
+72,Servicios de alojamiento temporal y de preparación de alimentos y bebidas,Sector
+721,Servicios de alojamiento temporal,Subsector
+7211,"Hoteles, moteles y similares",Rama
+72111,"Hoteles y moteles, excepto hoteles con casino",Subrama
+721111,Hoteles con otros servicios integrados ,Clase
+721112,Hoteles sin otros servicios integrados ,Clase
+721113,Moteles ,Clase
+72119,"Cabañas, villas y similares",Subrama
+721190,"Cabañas, villas y similares ",Clase
+7212,Campamentos y albergues recreativos,Rama
+72121,Campamentos y albergues recreativos,Subrama
+721210,Campamentos y albergues recreativos ,Clase
+7213,"Pensiones y casas de huéspedes, y departamentos y casas amueblados con servicios de hotelería",Rama
+72131,"Pensiones y casas de huéspedes, y departamentos y casas amueblados con servicios de hotelería",Subrama
+721311,Pensiones y casas de huéspedes ,Clase
+721312,Departamentos y casas amueblados con servicios de hotelería ,Clase
+722,Servicios de preparación de alimentos y bebidas,Subsector
+7223,Servicios de preparación de alimentos por encargo,Rama
+72231,Servicios de comedor para empresas e instituciones,Subrama
+722310,Servicios de comedor para empresas e instituciones ,Clase
+72232,Servicios de preparación de alimentos para ocasiones especiales,Subrama
+722320,Servicios de preparación de alimentos para ocasiones especiales ,Clase
+7224,"Centros nocturnos, bares, cantinas y similares",Rama
+72241,"Centros nocturnos, bares, cantinas y similares",Subrama
+722411,"Centros nocturnos, discotecas y similares ",Clase
+722412,"Bares, cantinas y similares ",Clase
+7225,Servicios de preparación de alimentos y bebidas alcohólicas y no alcohólicas,Rama
+72251,Servicios de preparación de alimentos y bebidas alcohólicas y no alcohólicas,Subrama
+722511,Restaurantes con servicio de preparación de alimentos a la carta o de comida corrida ,Clase
+722512,Restaurantes con servicio de preparación de pescados y mariscos ,Clase
+722513,Restaurantes con servicio de preparación de antojitos ,Clase
+722514,Restaurantes con servicio de preparación de tacos y tortas ,Clase
+722515,"Cafeterías, fuentes de sodas, neverías, refresquerías y similares ",Clase
+722516,Restaurantes de autoservicio ,Clase
+722517,"Restaurantes con servicio de preparación de pizzas, hamburguesas, hot dogs y pollos rostizados para llevar ",Clase
+722518,Restaurantes que preparan otro tipo de alimentos para llevar ,Clase
+722519,Servicios de preparación de otros alimentos para consumo inmediato ,Clase
+81,Otros servicios excepto actividades gubernamentales,Sector
+811,Servicios de reparación y mantenimiento,Subsector
+8111,Reparación y mantenimiento de automóviles y camiones,Rama
+81111,Reparación mecánica y eléctrica de automóviles y camiones,Subrama
+811111,Reparación mecánica en general de automóviles y camiones ,Clase
+811112,Reparación del sistema eléctrico de automóviles y camiones ,Clase
+811113,Rectificación de partes de motor de automóviles y camiones ,Clase
+811114,Reparación de transmisiones de automóviles y camiones ,Clase
+811115,Reparación de suspensiones de automóviles y camiones ,Clase
+811116,Alineación y balanceo de automóviles y camiones ,Clase
+811119,Otras reparaciones mecánicas de automóviles y camiones ,Clase
+81112,"Hojalatería, tapicería y otras reparaciones a la carrocería de automóviles y camiones",Subrama
+811121,Hojalatería y pintura de automóviles y camiones ,Clase
+811122,Tapicería de automóviles y camiones ,Clase
+811123,Servicios de blindaje y de adaptación de automóviles y camiones ,Clase
+811129,Instalación de cristales y otras reparaciones a la carrocería de automóviles y camiones ,Clase
+81119,Otros servicios de reparación y mantenimiento de automóviles y camiones,Subrama
+811191,Reparación menor de llantas ,Clase
+811192,Lavado y lubricado de automóviles y camiones ,Clase
+811199,Otros servicios de reparación y mantenimiento de automóviles y camiones ,Clase
+8112,Reparación y mantenimiento de equipo electrónico y de equipo de precisión,Rama
+81121,Reparación y mantenimiento de equipo electrónico y de equipo de precisión,Subrama
+811211,Reparación y mantenimiento de equipo electrónico de uso doméstico ,Clase
+811219,Reparación y mantenimiento de otro equipo electrónico y de equipo de precisión ,Clase
+8113,"Reparación y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de servicios",Rama
+81131,"Reparación y mantenimiento de maquinaria y equipo agropecuario, industrial, comercial y de servicios",Subrama
+811311,Reparación y mantenimiento de maquinaria y equipo agropecuario y forestal ,Clase
+811312,Reparación y mantenimiento de maquinaria y equipo industrial ,Clase
+811313,"Reparación y mantenimiento de maquinaria y equipo para mover, levantar y acomodar materiales ",Clase
+811314,Reparación y mantenimiento de maquinaria y equipo comercial y de servicios ,Clase
+8114,Reparación y mantenimiento de artículos para el hogar y personales,Rama
+81141,Reparación y mantenimiento de aparatos eléctricos para el hogar y personales,Subrama
+811410,Reparación y mantenimiento de aparatos eléctricos para el hogar y personales ,Clase
+81142,Reparación de tapicería de muebles para el hogar,Subrama
+811420,Reparación de tapicería de muebles para el hogar ,Clase
+81143,Reparación de calzado y otros artículos de piel y cuero,Subrama
+811430,Reparación de calzado y otros artículos de piel y cuero ,Clase
+81149,Reparación y mantenimiento de otros artículos para el hogar y personales,Subrama
+811491,Cerrajerías ,Clase
+811492,Reparación y mantenimiento de motocicletas ,Clase
+811493,Reparación y mantenimiento de bicicletas ,Clase
+811499,Reparación y mantenimiento de otros artículos para el hogar y personales ,Clase
+812,Servicios personales,Subsector
+8121,"Salones y clínicas de belleza, baños públicos y bolerías ",Rama
+81211,Salones y clínicas de belleza y peluquerías ,Subrama
+812110,Salones y clínicas de belleza y peluquerías ,Clase
+81212,Baños públicos ,Subrama
+812120,Baños públicos ,Clase
+81213,Sanitarios públicos y bolerías ,Subrama
+812130,Sanitarios públicos y bolerías ,Clase
+8122,Lavanderías y tintorerías ,Rama
+81221,Lavanderías y tintorerías ,Subrama
+812210,Lavanderías y tintorerías ,Clase
+8123,Servicios funerarios y administración de cementerios ,Rama
+81231,Servicios funerarios ,Subrama
+812310,Servicios funerarios ,Clase
+81232,Administración de cementerios ,Subrama
+812321,Administración de cementerios pertenecientes al sector privado ,Clase
+8124,Estacionamientos y pensiones para vehículos automotores ,Rama
+81241,Estacionamientos y pensiones para vehículos automotores ,Subrama
+812410,Estacionamientos y pensiones para vehículos automotores ,Clase
+8129,Servicios de revelado e impresión de fotografías y otros servicios personales ,Rama
+81291,Servicios de revelado e impresión de fotografías ,Subrama
+812910,Servicios de revelado e impresión de fotografías ,Clase
+81299,Otros servicios personales ,Subrama
+812990,Otros servicios personales ,Clase
+813,Asociaciones y organizaciones,Subsector
+8131,"Asociaciones y organizaciones comerciales, laborales, profesionales y recreativas ",Rama
+81311,"Asociaciones, organizaciones y cámaras de productores, comerciantes y prestadores de servicios ",Subrama
+813110,"Asociaciones, organizaciones y cámaras de productores, comerciantes y prestadores de servicios ",Clase
+81312,Asociaciones y organizaciones laborales y sindicales ,Subrama
+813120,Asociaciones y organizaciones laborales y sindicales ,Clase
+81313,Asociaciones y organizaciones de profesionistas ,Subrama
+813130,Asociaciones y organizaciones de profesionistas ,Clase
+81314,Asociaciones regulatorias de actividades recreativas ,Subrama
+813140,Asociaciones regulatorias de actividades recreativas ,Clase
+8132,"Asociaciones y organizaciones religiosas, políticas y civiles ",Rama
+81323,Asociaciones y organizaciones civiles ,Subrama
+813230,Asociaciones y organizaciones civiles ,Clase
