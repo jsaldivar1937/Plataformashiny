@@ -1,6 +1,7 @@
 library(shiny)
 #install.packages('rsconnect')
-
+#install.packages("shiny.semantic")
+library(shiny.semantic)
 rsconnect::setAccountInfo(name='qqqt7y-javier-saldivar', token='1E1571E02BEC3D28BF1994F9984B02E3', secret='/TMEEFeuIkZpeSCsiORHYYBUsL5iYJ9R/0tXYUU2')
 ui <- fluidPage(
   tags$head(
@@ -82,7 +83,14 @@ ui <- fluidPage(
         font-weight: bold;
         margin-bottom: 10px;
       }
-      "))
+      ")),
+    tags$link(
+      rel = "stylesheet",
+      href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css",
+      integrity = "sha384-xNJoULBR9pV+no9MFh+4Mxp8aa6fMTb7WHmbs/ZzOXFcXN6KDd3T0KbTv7+DTk1R",
+      crossorigin = "anonymous"
+    )
+  
   ),
   tags$body(
     tags$nav(class = "navbar navbar-expand-lg navbar-dark",
@@ -105,9 +113,33 @@ ui <- fluidPage(
              )
     ),
     tags$div(id = "about", class = "jumbotron",
-             tags$h1("acerca del proyecto"),
-             tags$p("porque surge.")
+             tags$h1("Sistema de Informacion Económica para Emprendedores"),
+             tags$p("Las diferentes carreras que se
+ofrecen a través de las instituciones públicas y privadas del en el estado de
+Zacatecas, experimentan una grave situación para poder encontrar trabajo,
+dado que nuestro estado adolece de la industrialización, por lo que
+muchos de ellos tiene que salir de Zacatecas para por incorporarse a
+alguna empresa en los estados vecinos, como los son Aguascalientes,
+Jalisco, Nuevo León y la Ciudad de México, principalmente, otros están
+logrando ser contratados para trabajos en línea para empresa Americanas y
+recientemente Europeas. Sin embargo, existen otros que desean quedarse
+para generar nuevas empresas o también llamadas Startups, que apoyen a
+las empresas y negocios existentes en el estado, con el objetivo de
+potencializar sus productos o servicios."),
+             tags$p("SINECE va dirigido para todos aquellos emprendedores inicien la idea de negocio de su
+microempresa, requieren de conocer la información económica del estado,
+como por ejemplo requieren de saber:"),
+             tags$p("¿Qué tipo de industria o comercio existe en Zacatecas?"),
+             tags$p(" ¿Qué tipo de negocio o industria es donde se generan más empleos?"),
+             tags$p("¿Qué productos o servicios son los que más producen/ofertan?")
+             
+           
+             
+             
     ),
+            
+            
+            
     tags$div(id = "values", class = "container-fluid",
              tags$div(class = "row",
                       tags$div(class = "col-sm-4",
