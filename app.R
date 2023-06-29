@@ -1,40 +1,52 @@
 library(shiny)
 #install.packages('rsconnect')
 #install.packages("shiny.semantic")
+#install.packages("leaflet")
 library(shiny.semantic)
 library(tidytext)
 library(tidyverse)
 library(stringr)
 library(dplyr)
 library(DT)
+library(ggplot2)
+library(readr)
+
+df <- read.csv("Cuantificar.csv")
+data <- read_csv("denue_inegi_32_.csv")
+codigo_actividad <- read_csv("tc_codigo_actividad.csv")
+gastos <- read_csv("gastos.csv")
 
 
-datos_combinados <- merge(data, codigo_actividad, by = "CODIGO")
-datos_procesados <- datos_combinados %>%
-  mutate(grupo = word(DESC_CODIGO, 1)) %>%
+
+empresas <- length(unique(data$nom_estab))
+#datos_combinados <- merge(data, codigo_actividad, by = "CODIGO")
+#datos_procesados <- datos_combinados %>%
+ # mutate(grupo = word(DESC_CODIGO, 1)) %>%
+  #group_by(grupo) %>%
+  #summarise(total = n())
+datos_procesados <- data %>%
+  mutate(grupo = word(nom_estab, 1)) %>%
   group_by(grupo) %>%
   summarise(total = n())
 
 
+top_10_actividades <- datos_procesados %>%
+  group_by(grupo) %>%
+  summarise(total = sum(total)) %>%
+  top_n(10, total) %>%
+  arrange(desc(total))
 
 
 
 
 
 
-rsconnect::setAccountInfo(name='qqqt7y-javier-saldivar', token='1E1571E02BEC3D28BF1994F9984B02E3', secret='/TMEEFeuIkZpeSCsiORHYYBUsL5iYJ9R/0tXYUU2')
+
 ui <- fluidPage(
   tags$head(
     tags$style(HTML("
       /* Estilos personalizados */
-      .circle-badge {
-        width: 100px;
-        height: 100px;
-        border-radius: 50%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-      }
+      
       
       body {
         font-family: 'Montserrat', sans-serif;
@@ -113,12 +125,6 @@ ui <- fluidPage(
         margin-bottom: 10px;
       }
       ")),
-    tags$link(
-      rel = "stylesheet",
-      href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css",
-      integrity = "sha384-xNJoULBR9pV+no9MFh+4Mxp8aa6fMTb7WHmbs/ZzOXFcXN6KDd3T0KbTv7+DTk1R",
-      crossorigin = "anonymous"
-    )
   
   ),
   tags$body(
@@ -171,40 +177,112 @@ como por ejemplo requieren de saber:"),
             
     tags$div(
       id = "values",
-      class = "container-fluid",
       tags$div(
         class = "row",
         tags$div(
-          class = "col-sm-4",
-          tags$h2("Empresas en Mexico"),
-          tags$h4("Se muestra el numero total de empresas en mexico segun el censo 2019 por el INEGI"),
+          class = "col-sm-6 d-flex justify-content-center container-fluid",
+          tags$h2("Empresas en México"),
+          tags$h4("Se muestra el número total de empresas en México según el censo 2022 por el INEGI."),
           tags$div(
-            class = "circle-badge",
-            style = "display: flex; justify-content: center; align-items: center; background-color: white; border: 2px solid green; color: #000; width: 150px; height: 150px; border-radius: 50%;",
+            class = "container-fluid",
+            style = "display: flex; justify-content: center; align-items: center; background-color: white; border: 2px solid green; color: #000; width: 250px; height: 250px; border-radius: 100%;",
             tags$p(
               style = "font-size: 36px; font-weight: bold; margin: 0;",
               empresas # Reemplaza "5000" con el número real de empresas en México
             )
           )
-        )
+          
+        ),
+        tags$div(
+          class = "col-sm-6",
+          tags$h2("Empresas mas populares"),
+          tags$h4("En el siguiente gráfico se muestran las principales actividades realizadas."),
+          tags$div(
+            class = "container-fluid",
+            id = "grafica_pie",
+            plotOutput("grafica_pie")
+          )
+        ),
+        tags$div(
+          #class = "col-sm-8",
+          tags$h2("Gastos del Gobierno de Zacatecas"),
+          tags$h4("A continuación se muestran las inversiones del gobierno en el estado apoyando diversos sectores."),
+          tags$div(
+            class = "container-fluid",
+            id = "grafica_pie2",
+            plotOutput("grafica_pie2")
+          )
+        ),
       )
     ),
+    
     
     tags$div(
       id ="values",
       class= "container-fluid",
+      tags$h2("Filtro de Comercios en el Estado de Zacatecas."),
       DT::dataTableOutput("tabla_resultados")
     ),
+    tags$div(
+      id ="values",
+      class= "container-fluid",
+      plotOutput("grafica_empresas")
+    ),
+  
     
     tags$div(id = "contact", class = "jumbotron",
-             tags$h1("contacto"),
-             tags$p("aqui los contactos")
+             tags$h1("Contacto"),
+             
+             tags$div(
+               class= "row",
+               tags$div(
+                 class = "col-sm-3",
+                 tags$h3("Luis Zapata"),
+                 tags$p("lzapata@utzac.edu.mx")
+                 
+               ),
+               tags$div(
+                 class = "col-sm-3",
+                 tags$h3("Rubén Delgado"),
+                 tags$p("ruben.dc@gmail.com")
+                 
+               ),
+               tags$div(
+                 class = "col-sm-3",
+                 tags$h3("Fernando Araiz"),
+                 tags$p("Lf.fercho@gmail.com")
+                 
+               ),
+               tags$div(
+                 class = "col-sm-3",
+                 tags$h3("Javier Saldivar"),
+                 tags$p("javiersaldivar28@gmail.com")
+                 
+               )
+               
+             ),
+             
     )
   )
 )
 
 server <- function(input, output) {
-  empresas <- length(unique(data$CODIGO))
+  
+  
+  output$grafica_pie <- renderPlot({
+    
+    # Crear el gráfico de pastel
+    pie_chart <- ggplot(top_10_actividades, aes(x = "", y = total, fill = grupo)) +
+      geom_bar(width = 1, stat = "identity") +
+      coord_polar("y", start = 0) +
+      theme_void() +
+      labs(fill = "grupo")
+    
+    # Mostrar el gráfico de pastel
+    print(pie_chart)
+  })
+  datos_procesados$grupo <- iconv(datos_procesados$grupo, to = "UTF-8", sub = "//TRANSLIT")
+  
   output$tabla_resultados <- DT::renderDataTable({
     DT::datatable(
       datos_procesados,
@@ -212,15 +290,43 @@ server <- function(input, output) {
         pageLength = 10,  # Número de filas por página
         lengthMenu = c(10, 25, 50),  # Opciones de selección de filas por página
         searching = TRUE  # Habilitar la búsqueda en la tabla
-      )
+      ),
+      rownames = FALSE  # Para evitar mostrar la columna de números de fila
     )
+  })
+  
+  output$grafica_empresas <- renderPlot({
+    ggplot(df, aes(x = ACTIVIDAD, y = EMPRESAS, fill = EMPRESAS)) +
+      geom_bar(stat = "identity") +
+      coord_flip() +
+      labs(
+        x = "Actividad Económica",
+        y = "Número de Empresas",
+        title = "Empresas por Actividad Económica en Zacatecas"
+      ) 
+  })
+  
+  output$grafica_pie2 <- renderPlot({
+    
+    # Crear el gráfico de pastel
+    pie_chart2 <- ggplot(gastos, aes(x = "", y = Cantidad, fill = Concepto)) +
+      geom_bar(width = 1, stat = "identity") +
+      coord_polar("y", start = 0) +
+      theme_void() +
+      labs(fill = "Concepto")
+    
+    # Mostrar el gráfico de pastel
+    print(pie_chart2)
   })
   
 }
 
 shinyApp(ui = ui, server = server)
 
-
+#
+#ggplot(df, aes(x = ACTIVIDAD, y = EMPRESAS, fill=EMPRESAS) )+    # geom_bar works fine
+ # ylab("NUMERO DE EMPRESAS")+ geom_bar(stat = "identity") +
+  #coord_flip() + ggtitle("Empresas por Actividad Economica en Zacatecas")
 
 #agrupado <- aggregate(valor ~ actividad, data = datos_combinados, FUN = sum)
 
